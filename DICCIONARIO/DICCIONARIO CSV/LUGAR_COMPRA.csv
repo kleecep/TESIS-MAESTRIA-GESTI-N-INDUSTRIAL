@@ -1,0 +1,271 @@
+﻿COD LUG;LUGARES DE COMPRA 
+1;Abarrotería
+2;Academia
+3;Aceitera
+4;Agencias de viajes
+5;Albañil
+6;Almacén
+7;Alquifiestas
+8;Aseguradora
+9;Asilo de ancianos
+10;Asociación de servicio social
+11;Autoconsumo (tomar de la
+12;Autoservicio
+13;Banco estatal
+14;Banco privado
+15;Barbería o peluquería
+16;Cabina telefónica
+17;Cafetería
+18;Camión repartidor
+19;Cars wash
+20;Carnicería
+21;Carpintería o carpintero
+22;Casa cuna
+23;Casa de decoración
+24;Casa de huéspedes
+25;Casa de rehabilitación
+26;Caseta
+27;Centro de diversión o esparcimiento
+28;Centro deportivo
+29;Centro educativo privado
+30;Centro educativo público
+31;Centro vacacional o recreativo
+32;Cine
+33;Circo
+34;Clubes y asociaciones
+35;Instituto de capacitación
+36;Comedor
+37;Cooperativa
+38;Correo público
+39;Correo privado
+40;Costurera o modista
+41;Depósito de granos básicos y otros artículos
+43;Distribuidor de artículos de consumo diario
+44;Distribuidor de electrodomésticos
+45;Distribuidora de gas propano
+46;Empresa Municipal de Agua EMPAGU
+47;Empresa Constructora o inmobiliaria
+48;Empresa de mantenimiento de equipo de computación
+49;Empresa de mudanzas
+50;Empresa de transporte de carga
+51;Empresa de televisión por cable
+52;Empresa eléctrica
+53;Empresa privada de agua
+54;Empresa de telefonía (claro o tigo)
+55;Venta de vehículos
+56;Escuela de automovilismo
+57;Despensa
+58;Estudio fotográfico
+59;Farmacia estatal
+60;Farmacia privada
+61;Ferretería
+62;Financiera
+63;Finca o hacienda
+64;Floristería
+65;Funeraria
+66;Gasolinera
+67;Guardería o jardín infantil
+69;Herrería o herrero
+70;Hospital privado o clínica privada
+71;Hospital público
+72;Hotel
+73;Iglesia
+74;Instituto Nacional de electrificacion INDE
+75;Institución Pública
+76;Juguetería
+77;Laboratorio
+78;Lavandería
+79;Librería o papelería
+80;Línea aérea o agencia de viajes
+81;Manicomio
+82;Mercado o plaza
+83;Molino de maíz (molino)
+84;Mueblería
+85;Municipalidad
+86;Oficina de servicios profesionales
+87;Oficina de trámites o gestores
+88;Óptica
+89;Orfanatorio u hospicio
+90;Panadería
+91;Parqueo
+92;Persona particular casa particular
+93;Pinchazo (reparación de llantas)
+94;Pollería (venta de carne de pollo)
+95;Pensión (lugar de hospedaje)
+96;Puesto, centro de salud o dispensarios
+97;Recolector de basura
+98;Alquiler de automóviles
+99;Alquiler de bicicletas
+100;Restaurante
+101;Sala de masajes
+102;Salón de belleza
+103;Salón de fiestas
+104;Sastrería
+105;Servicio de taxi
+106;Supermercado o hipermercado
+107;Taller de reparación de motos
+109;Taller de electrodomésticos
+110;Taller mecánico de carros
+111;Taller de reparación de bicicletas
+112;Tapicería
+113;Teatro
+114;Teléfono comunitario
+115;Tienda o pulpería
+116;Tintorería o lavandería
+117;Tortillería (venta de tortillas)
+118;Transporte extraurbano
+119;Trasporte particular
+120;Transporte urbano
+121;Universidad privada
+122;Vendedor ambulante
+123;Vendedor con local fijo
+124;Venta callejera de artículos no alimenticios
+125;Venta de carbón
+126;Venta de cortinas
+127;Vendedor de catalogo
+128;Venta de instrumentos musicales
+129;Venta de leña
+130;A domicilio (APP o Telefonía)
+131;Venta de materiales de construccion
+132;Venta de periódicos
+133;Venta de pinturas
+134;Venta de repuestos
+135;Venta de revistas
+136;Camión cisterna
+137;Veterinaria
+138;Videoclub (Alquiler de videos)
+139;Vivero
+140;Zapatería (venta de zapatos)
+141;Acuario
+142;Agro servicio
+143;Alquiler de prenda de vestir
+144;Alquiler de lanchas
+145;Aserradero
+146;Salón de billar
+147;Cementerio privado
+148;Comadrona
+149;Conservatorio
+150;Cordelería
+151;Discoteca (lugar de baile)
+152;Distribuidora de materiales de construcción
+153;Distribuidora de licores
+154;Distribuidora de muebles
+155;Dulcería (venta de dulces)
+156;Ebanistería
+157;Electricista
+158;Fotógrafo particular
+159;Imprenta
+160;Joyería
+161;Lechero / vendedor de leche
+162;Lugar de trabajo
+163;Marranería (venta de carne de marrano
+164;Médico odontólogo
+165;Otro país
+166;Pastelería (venta de pasteles)
+167;Perforadora de pozos
+168;Perfumería
+169;Pescadería (venta de pescados y mariscos
+170;Plomero
+171;Radiotécnico
+172;Reencauchadora
+173;Relojería
+174;Reparación de calzado (pusto fijo)
+175;Reparador ambulante de calzado
+176;Sala de concierto
+177;Sala de boliche
+178;Soldador ambulante
+179;Talabartería
+180;Teleférico
+181;Teléfono publico
+182;Tienda fotográfica
+183;Tienda de arte
+184;Venta en general de artículos usados
+185;Venta de productos lácteos
+186;Venta de madera
+187;Venta de tamales
+188;Venta de artículos decorativos
+189;Venta de telas
+190;Venta de artículos deportivos
+191;Venta de artículos de costura
+192;Venta de licuados
+193;Verdulería
+194;Vidriería
+195;Fumigadora
+196;Fábrica de calcetas y calcetines
+197;Granja avícola
+198;Fábrica no especificada
+199;Cantina o bar
+200;Gimnasio
+201;Tienda naturista
+202;Garita de peaje
+203;Marmolería
+204;Parque zoológico
+205;Venta de discos y cassettes
+206;Fábrica de gases industriales
+207;Cohetería
+208;Venta de manualidades
+209;Empresa de Internet
+210;Por su cuenta
+211;Liga Nacional del Corazón
+212;Servicio de fotocopiado o copias
+213;Venta de acumuladores
+214;Lugar de estudio
+215;Piñatería (fabricación o venta de piñatas
+216;Empresa privada de seguridad
+217;Empresa de ferrocarril
+218;Empresa marítima
+219;Escuela de música
+220;Fábrica de edredones
+221;Fábrica de puertas de hierro
+222;Fontanero
+223;Polarizado de vidrio
+224;Fábrica calzado
+225;Refresquería
+226;Venta de artesanías
+227;Heladería -venta de helados-
+228;Venta de equipos médico y quirurgico
+229;FUNDABIEN
+230;Venta de llantas
+231;Comité
+232;Sala de exposición
+233;Bomberos
+234;Balnearios y/o piscinas
+235;Campaña médica internacional
+237;Hojalatería
+238;Organismo internacionales
+239;Embajada o Consulado
+240;Venta de artículos y repuestos para computadoras
+241;Kioscos
+242;Peletería
+243;Centro naturista
+244;Otros tipos de transporte
+245;Feria o lotería
+246;Centro educativo por cooperativa
+247;Cerería (venta candelas)
+248;Taller de maquinas de escribir
+249;Maquiladora
+250;Carreta de venta de comida
+251;Universidad estatal
+252;Venta callejera de alimenticios
+253;IGSS
+254;MAYCOM (emisor de licencias
+255;ONG´S
+256;Café, Internet y similares
+257;Venta de computadoras y accesorios de computación
+258;Auto suministro (tomado de su propio negocio)
+259;Producción propia)
+260;Distribuidora de energía eléctrica
+261;Taller eléctrico para carros
+262;Salchichonería
+263;Afiladuría
+264;Internet/Web
+265;Medios de comunicación radios y prensa
+500;Ropa uada
+501;Comedor social
+502;Zapatos usados
+503;Juguete usado
+504;Colegio de profesionales
+505;Ropa nueva
+997;No aplica
+998;Otros lugares de compra no especificados
+999;Lugar de compra o pago ignorado

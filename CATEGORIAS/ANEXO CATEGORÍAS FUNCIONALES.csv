@@ -1,0 +1,46 @@
+﻿COD_CODEX,INDUSTRIA ,CATEGORIA FUNCIONAL
+1,LÁCTEOS,Leche cruda y entera
+1,LÁCTEOS,Leche descremada
+1,LÁCTEOS,Leche no animal
+1,LÁCTEOS,Otros productos lácteos
+1,LÁCTEOS,Postre y bebidas a base de leche
+1,LÁCTEOS,Queso
+1,LÁCTEOS,Yogur y productos similares
+2,GRASAS Y ACEITES,Aceites vegetales
+2,GRASAS Y ACEITES,Manteca vegetal
+2,GRASAS Y ACEITES,"Mantequilla, otras grasas y aceites derivados de la leche"
+2,GRASAS Y ACEITES,Margarina y preparaciones similares
+2,GRASAS Y ACEITES,Otros aceites y grasas animales
+3,HIELO,"Hielo, helado y sorbete"
+4,FRUTAS Y HORTALIZAS,Frutas y hortalizas no procesadas
+4,FRUTAS Y HORTALIZAS,Frutas y hortalizas Procesadas
+5,CONFITERIA,"Chocolate, cacao y productos a base de cacao"
+5,CONFITERIA,Otra confitería de azúcar y postres
+6,CEREALES,Cereales para desayuno
+6,CEREALES,Cereales y productos de cereales
+6,CEREALES,Harina de cereales
+6,CEREALES,"Macarrones, fideos, cuscús y productos de pasta similares"
+7,PANADERIA,Productos de pan y panadería
+8,CARNES Y AVES,Animales vivos terrestres
+8,CARNES Y AVES,"Animales vivos, carne y otras partes de animales terrestres sacrificados"
+8,CARNES Y AVES,"Carne, despojos, sangre y otras partes de las preparaciones de animales sacrificados"
+8,CARNES Y AVES,"Carne, fresca, refrigerada o congelada"
+8,CARNES Y AVES,"Carne, seca, salada, en salmuera o ahumada"
+9,MARISCOS,Pescados y otros mariscos
+9,MARISCOS,Pescados y otros mariscos procesados
+10,HUEVOS,Huevos
+11,EDULCORANTES,Azúcar de caña y remolacha
+11,EDULCORANTES,"Azúcar, confitería y postres"
+11,EDULCORANTES,Miel
+12,SALES,Aderezos
+12,SALES,Condimentos
+12,SALES,"Especias, hierbas y semillas culinarias"
+12,SALES,Sal
+12,SALES,Salsas
+12,SALES,Sopas preparadas
+13,ALIMENTOS NUTRICIONALES,Alimentos preparados y otros productos alimenticios
+14,BEBIDAS,Alcohol (bebidas alcohólicas) y licores
+14,BEBIDAS,Bebidas no alcohólicas
+15,SNACKS,"Especias, hierbas y semillas culinarias"
+15,SNACKS,"Otras verduras, tubérculos, plátanos y bananos de cocción, secos y deshidratados"
+16,ALIMENTOS PREPARADOS,Alimentos preparados y otros productos alimenticios

@@ -1,0 +1,13 @@
+﻿COD PAGO;FORMA DE PAGO
+1;Efectivo /  Tarjeta de débito
+2;Crédito / fiado
+3;Tarjeta de crédito
+4;Cheques
+5;Transferencias electrónicas
+6;Dinero eléctronico
+7;Banca móvil
+8;Pago por su trabajo
+9;Tomado de su negocio
+10;Regalado
+11;Producción propia
+98;Otro ¿Cuál?

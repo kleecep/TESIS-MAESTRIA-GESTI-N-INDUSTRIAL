@@ -1,0 +1,1589 @@
+﻿COD ALIME;ALIMENTOS 
+01.1.1;Cereales y productos de cereales (ND)
+01.1.1.1;Cereales (ND)
+01.1.1.1.1;Trigo
+01.1.1.1.2;Arroz
+01.1.1.1.2.1;Arroz corriente
+01.1.1.1.2.2;Arroz precocido
+01.1.1.1.2.3;Arroz integral
+01.1.1.1.2.4;Arroz quebrado
+01.1.1.1.2.5;Arroz con aditamentos (p.e. con curry)
+01.1.1.1.2.6;Arroz instantáneo
+01.1.1.1.3;Sorgo
+01.1.1.1.4;Cebada
+01.1.1.1.5;Mijo
+01.1.1.1.6;Maíz
+01.1.1.1.6.1;Maíz blanco
+01.1.1.1.6.2;Maíz amarillo
+01.1.1.1.6.3;Maíz para poporopos
+01.1.1.1.6.4;Maíz precocido
+01.1.1.1.6.9;Otros tipos de maíz
+01.1.1.1.7;Quinoa
+01.1.1.1.8;Teff
+01.1.1.1.9;Otros cereales
+01.1.1.2;Harina de cereales (ND)
+01.1.1.2.1;Harina de trigo
+01.1.1.2.1.1;Harina de trigo
+01.1.1.2.1.2;Harina para panqueques
+01.1.1.2.1.3;Harina para pasteles/pan
+01.1.1.2.1.9;Otras harinas de trigo
+01.1.1.2.2;Harina de arroz
+01.1.1.2.3;Harina de sorgo
+01.1.1.2.4;Harina de cebada
+01.1.1.2.5;Harina de mijo
+01.1.1.2.6;Harina de maíz
+01.1.1.2.7;Harina de quinoa
+01.1.1.2.8;Harina de teff
+01.1.1.2.9;Otras harinas de cereales
+01.1.1.2.9.1;Harina de haba
+01.1.1.2.9.2;Harina para atoles (incluye Incaparina)
+01.1.1.2.9.3;Harina de linaza
+01.1.1.2.9.9;Otras harinas de cereales
+01.1.1.3;Productos de pan y panadería (ND)
+01.1.1.3.1;Pan
+01.1.1.3.1.1;Pan envasado
+01.1.1.3.1.2;Pan francés
+01.1.1.3.1.3;Pan especial
+01.1.1.3.1.4;Pan galleta
+01.1.1.3.1.5;Pan integral
+01.1.1.3.2;Pan dulce
+01.1.1.3.2.9;Otros panes dulces
+01.1.1.3.3;Galletas
+01.1.1.3.3.1;Galletas saladas
+01.1.1.3.3.2;Galletas dulces
+01.1.1.3.3.3;Galletas integrales
+01.1.1.3.4;Tortillas
+01.1.1.3.4.1;Tortillas frescas
+01.1.1.3.4.2;Tortillas envasadas
+01.1.1.3.4.3;Tortillas tostadas
+01.1.1.3.4.4;Masa para tortillas
+01.1.1.3.5;Productos panadería/pastelería
+01.1.1.3.9;Otros productos de panadería
+01.1.1.4;Cereales para desayuno (ND)
+01.1.1.4.0;Cereales para desayuno
+01.1.1.4.0.1;Cereales de bolsa o caja
+01.1.1.4.0.2;Granola
+01.1.1.4.0.3;Avena/mosh
+01.1.1.4.0.4;Cereal de arroz inflado
+01.1.1.5;Macarrones, fideos, cuscús y productos de pasta similares (ND)
+01.1.1.5.0;Macarrones, fideos, cuscús y productos de pasta similares
+01.1.1.5.0.1;Macarrones
+01.1.1.5.0.2;Espagueti
+01.1.1.5.0.3;Fideos en todas sus formas (Excepto macarrones y espagueti)
+01.1.1.5.0.4;Chao mein
+01.1.1.5.0.5;Canelones y tipo hojas para lasaña
+01.1.1.5.0.9;Otros fideos
+01.1.1.9;Otros productos de cereales(ND)
+01.1.2;Animales vivos, carne y otras partes de animales terrestres sacrificados (ND)
+01.1.2.1;Animales vivos terrestres (ND)
+01.1.2.1.1;Animal bovino, vivo
+01.1.2.1.2;Cerdo, vivo
+01.1.2.1.3;Cabras, corderos y ovejas, vivos
+01.1.2.1.4;Aves de corral, vivas
+01.1.2.1.4.1;Pollos, gallinas y gallos vivos
+01.1.2.1.4.2;Patos vivos
+01.1.2.1.4.3;Pavos o chompipes vivos
+01.1.2.1.4.9;Otras aves de corral vivas
+01.1.2.1.5;Liebres y conejos, vivos
+01.1.2.1.9;Otros animales vivos
+01.1.2.2;Carne, fresca, refrigerada o congelada (ND)
+01.1.2.2.1;Carne de animales bovinos, frescos, refrigerados o congelados
+01.1.2.2.1.1;Carne de res para bistec
+01.1.2.2.1.2;Carne de res molida
+01.1.2.2.1.3;Carne de res para asar (con y sin hueso)
+01.1.2.2.1.4;Carne de res sin hueso (posta)
+01.1.2.2.1.5;Carne de res con hueso para cocido
+01.1.2.2.1.6;Carne de res para guisar (carne en trozo sin hueso)
+01.1.2.2.1.7;Costilla de res
+01.1.2.2.1.8;Badilla de res
+01.1.2.2.1.9;Otras carnes de res
+01.1.2.2.2;Carne de cerdos, fresco, refrigerado o congelado
+01.1.2.2.2.1;Posta de cerdo sin hueso
+01.1.2.2.2.2;Chuleta de cerdo
+01.1.2.2.2.3;Costilla de cerdo
+01.1.2.2.2.4;Carne de cerdo con hueso
+01.1.2.2.2.5;Carne de cerdo molida
+01.1.2.2.2.6;Carne de cerdo para milanesa
+01.1.2.2.2.9;Otras carnes de cerdo
+01.1.2.2.3;Carne de cabras, corderos y ovejas, fresco, refrigerado o congelado
+01.1.2.2.3.1;Carne de cabra
+01.1.2.2.3.2;Carne de cordero y oveja
+01.1.2.2.4;Carne de aves de corral, fresca, refrigerada o congelada
+01.1.2.2.4.1;Carne de pollo blanco
+01.1.2.2.4.2;Carne de pollo amarillo
+01.1.2.2.4.3;Carne de pollo criollo o de patio
+01.1.2.2.4.4;Carne pato
+01.1.2.2.4.5;Carne de pavo o chompipe
+01.1.2.2.4.9;Otras carnes de aves de corral
+01.1.2.2.5;Carne de liebres y conejos frescos, refrigerados o congelados
+01.1.2.2.6;Carne de caballos y otros equinos, frescos, refrigerados o congelados
+01.1.2.2.7;Carne de camellos y camélidos, frescos, refrigerados o congelados
+01.1.2.2.9;Otra carne, fresca, refrigerada o congelada
+01.1.2.3;Carne, seca, salada, en salmuera o ahumada (nd)
+01.1.2.3.1;Carne de bovinos, salada, seca o ahumada
+01.1.2.3.2;Carne de cerdos, cortes, salados, secos o ahumados (tocino y jamón)
+01.1.2.3.2.1;Jamón serrano
+01.1.2.3.2.2;Tocino
+01.1.2.3.2.3;Salami
+01.1.2.3.2.9;Otras carnes de cerdo secas, saladas o ahumadas
+01.1.2.3.9;Otras carnes secas, saladas o ahumadas
+01.1.2.4;Despojos, sangre y otras partes de animales sacrificados, frescos, refrigerados o congelados, secos, salados, en salmuer
+01.1.2.4.0;Despojos, sangre y otras partes de animales sacrificados frescos, refrigerados o congelados, secos, salados, en salmuera
+01.1.2.4.0.1;Menudos de pollo
+01.1.2.4.0.2;Menudos de res
+01.1.2.4.0.3;Menudos de cerdo
+01.1.2.4.0.9;Otros tipos de menudos
+01.1.2.5;Carne, despojos, sangre y otras partes de las preparaciones de animales sacrificados (ND)
+01.1.2.5.1;Salchichas y productos similares de carne
+01.1.2.5.2;Carne enlatada
+01.1.2.5.3;Paté, incluido el paté de hígado
+01.1.2.5.4;Jamón (pollo, res, cerdo, mixto, etc.)
+01.1.2.5.5;Longanizas y chorizos (de todo tipo)
+01.1.2.5.6;Mortadela, salchichón y carne prensada
+01.1.2.5.7;Medallones y milanesas de pollo
+01.1.2.5.8;Tortas de carne (pollo, res y cerdo)
+01.1.2.5.9;Otras preparaciones de carne, despojos o sangre N.E.C.
+01.1.2.5.9.1;Morcilla
+01.1.2.5.9.2;Pepperoni
+01.1.2.5.9.3;Carne de cerdo marinada
+01.1.2.5.9.4;Otras carnes marinadas (pollo, res, etc.)
+01.1.2.5.9.9;Otras preparaciones de carne, despojos o sangre N.E.C.
+01.1.3;Pescados y otros mariscos (ND)
+01.1.3.1;Pescado, vivo, fresco, refrigerado o congelado (ND)
+01.1.3.1.1;Pescado entero, fresco, refrigerado o congelado
+01.1.3.1.1.1;Pescado entero, fresco, refrigerado o congelado
+01.1.3.1.2;Pescado fileteado y trozado, fresco, refrigerado o congelado
+01.1.3.1.2.1;Filete de tilapia
+01.1.3.1.2.2;Filete de curvina o merluza
+01.1.3.1.2.3;Trozo o filete de salmón
+01.1.3.1.2.4;Trozo atún
+01.1.3.1.2.9;Otros trozos o filetes de pescados
+01.1.3.1.9;Otros pescados, vivos, frescos, refrigerados o congelados
+01.1.3.2;Pescados, secos, salados, en salmuera o ahumados (nd)
+01.1.3.2.1;Salmón ahumado
+01.1.3.2.2;Pescado seco (incluye bacalao, bagre, bonito, etc.)
+01.1.3.2.9;Otros pescados, secos, salados, en salmuera y ahumados
+01.1.3.3;Preparaciones de pescado (ND)
+01.1.3.3.1;Pescados enlatados
+01.1.3.3.1.1;Atún enlatado
+01.1.3.3.1.2;Sardinas enlatadas
+01.1.3.3.1.3;Anchoas enlatadas
+01.1.3.3.1.9;Otros pescados enlatados
+01.1.3.4;Otros mariscos, vivos, frescos, refrigerados o congelados (nd)
+01.1.3.4.1;Camarones y langostinos, vivos, frescos, refrigerados o congelados
+01.1.3.4.2;Almejas, vivas, frescas, refrigeradas o congeladas
+01.1.3.4.3;Pulpos, calamares y otros cefalópodos, vivos, frescos, refrigerados o congelados
+01.1.3.4.4;Cangrejos y otros crustáceos, frescos, refrigerados o congelados
+01.1.3.4.5;Mariscadas, frescas, refrigeradas o congeladas
+01.1.3.4.9;Otros invertebrados acuáticos, vivos, frescos, refrigerados o congelados
+01.1.3.5;Otros mariscos, secos, salados, en salmuera o ahumados (nd)
+01.1.3.5.1;Camarones y langostinos, secos, salados o en salmuera, ahumados
+01.1.3.5.2;"Almejas, secas, saladas o en salmuera; ahumadas"
+01.1.3.5.3;Pulpos, calamares y cefalópodos, secos, salados o en salmuera, ahumados
+01.1.3.5.9;Otros invertebrados acuáticos, secos, salados o en salmuera, ahumados
+01.1.3.6;Otras preparaciones de mariscos (ND)
+01.1.3.6.1;Almejas y mejillones, preparados o conservados
+01.1.3.6.2;Pulpos, calamares y cefalópodos, preparados o conservados
+01.1.3.6.3;Carne de cangrejo, preparado o conservado
+01.1.3.6.9;Otros invertebrados acuáticos, preparados o conservados
+01.1.3.7;Hígados, huevas y despojos de peces y de otros mariscos en todas las formas (nd)
+01.1.3.7.1;Caviar y sustitutos de caviar
+01.1.3.7.9;Otros hígados, huevas y despojos de peces y otros mariscos en todas las formas
+01.1.4;Leche, otros productos lácteos y huevos (ND)
+01.1.4.1;Leche cruda y entera (ND)
+01.1.4.1.1;Leche cruda y fresca de vaca
+01.1.4.1.2;Leche cruda y fresca de búfalos
+01.1.4.1.3;Leche cruda y fresca de ovejas y cabras
+01.1.4.1.4;Leche entera líquida industrializada
+01.1.4.1.9;Otras leches líquidas enteras (frescas o industrializadas)
+01.1.4.2;Leche descremada (ND)
+01.1.4.2.1;Leche liquida descremada
+01.1.4.2.2;Leche liquida  semi descremada
+01.1.4.2.9;Otras leches liquidas descremadas y semidescremadas
+01.1.4.3;Otras leche y crema (ND)
+01.1.4.3.1;Leche condensada
+01.1.4.3.2;Leche evaporada
+01.1.4.3.3;Leche en polvo
+01.1.4.3.4;Crema artesanal
+01.1.4.3.5;Crema industrializada
+01.1.4.3.6;Cremora
+01.1.4.3.9;Otros productos de leche y crema
+01.1.4.4;Leche no animal (ND)
+01.1.4.4.1;Leche de coco (para beber, postres y cocinar)
+01.1.4.4.2;Leche de almendras
+01.1.4.4.3;Leche de soja
+01.1.4.4.4;Leche de arroz
+01.1.4.4.5;Leche de avena
+01.1.4.4.9;Otras leches de origen no animal
+01.1.4.5;Queso (ND)
+01.1.4.5.1;Quesos blandos
+01.1.4.5.1.1;Queso fresco (Incluye el queso supercremoso)
+01.1.4.5.1.2;Queso crema
+01.1.4.5.1.3;Queso ricotta o requesón y cottage
+01.1.4.5.1.4;Queso pita
+01.1.4.5.1.9;Otros quesos blandos
+01.1.4.5.2;Quesos semi blandos
+01.1.4.5.2.1;Queso amarillo (tipo americano)
+01.1.4.5.2.2;Queso mozzarella
+01.1.4.5.2.3;Queso de capas
+01.1.4.5.2.4;Queso de gouda
+01.1.4.5.2.5;Queso cheddar
+01.1.4.5.2.9;Otros quesos semiblandos
+01.1.4.5.3;Quesos duros
+01.1.4.5.3.1;Queso parmesano
+01.1.4.5.3.2;Queso seco
+01.1.4.5.3.9;Otros quesos duros
+01.1.4.5.4;Quesos de leche de cabra y oveja
+01.1.4.5.4.1;Queso de cabra
+01.1.4.5.4.2;Queso de oveja
+01.1.4.5.5;Quesos con especies y condimentos (loroco, jalapeño y otras especies)
+01.1.4.5.9;Otros quesos
+01.1.4.6;Yogur y productos similares (ND)
+01.1.4.6.1;Yogur y productos similares
+01.1.4.6.1.1;Yogur artesanal
+01.1.4.6.1.2;Yogur industrializado
+01.1.4.6.1.3;Productos probióticos lácteos (incluir kéfir)
+01.1.4.7;Postre y bebidas a base de leche (ND)
+01.1.4.7.1;Postre y bebidas a base de leche
+01.1.4.7.1.1;Flan o pudin
+01.1.4.7.1.2;Natillas y otros postres
+01.1.4.7.1.3;Bebidas lácteas en base a leche liquida (superlak, nutrilety)
+01.1.4.8;Huevos (ND)
+01.1.4.8.1;Huevos frescos de gallina y otras aves
+01.1.4.8.1.1;Huevos de gallina criollos o de patio
+01.1.4.8.1.2;Huevos de gallina de granja
+01.1.4.8.1.3;Huevos pasteurizados (liquido y en polvo)
+01.1.4.8.1.9;Otros huevos de gallina no especificados
+01.1.4.8.2;Huevos frescos de otros animales
+01.1.4.9;Otros productos lácteos (ND)
+01.1.4.9.0;Otros productos lácteos
+01.1.5;Aceites y grasas (ND)
+01.1.5.1;Aceites vegetales (ND)
+01.1.5.1.1;Aceite de semillas de girasol y semilla de cártamo
+01.1.5.1.2;Aceite de palma
+01.1.5.1.3;Aceite de oliva
+01.1.5.1.4;Aceite de soja
+01.1.5.1.5;Aceite de canola
+01.1.5.1.6;Aceite de coco
+01.1.5.1.7;Aceite de maíz
+01.1.5.1.8;Aceite vegetal mixtos
+01.1.5.1.9;Otros aceites vegetales comestibles N.E.C.
+01.1.5.2;Mantequilla, otras grasas y aceites derivados de la leche (ND)
+01.1.5.2.1;Mantequilla
+01.1.5.2.9;Otras grasas y aceites derivados de la leche
+01.1.5.3;Margarina y preparaciones similares (ND)
+01.1.5.3.1;Margarina y preparaciones similares
+01.1.5.3.1.1;Margarina vegetal regular
+01.1.5.3.1.2;Margarina vegetal dietética
+01.1.5.3.2;Manteca vegetal
+01.1.5.9;Otros aceites y grasas animales (ND)
+01.1.5.9.1;Manteca de cerdo
+01.1.5.9.2;Sebo
+01.1.5.9.3;Grasas y aceites comestibles de pescado
+01.1.5.9.9;Otros aceites y grasas animales N.E.C.
+01.1.6;Frutas y nueces (ND)
+01.1.6.1;Dátiles, higos y frutas tropicales, frescas (nd)
+01.1.6.1.1;Aguacates frescos
+01.1.6.1.2;Bananos y plátanos frescos
+01.1.6.1.2.1;Bananos frescos
+01.1.6.1.2.2;Plátanos frescos
+01.1.6.1.3;Dátiles frescos
+01.1.6.1.4;Higos frescos
+01.1.6.1.5;Mangos, guayabas y mangostán, frescos
+01.1.6.1.5.1;Mangos
+01.1.6.1.5.2;Guayabas
+01.1.6.1.6;Papayas frescas
+01.1.6.1.7;Piñas frescas
+01.1.6.1.8;Cocos frescos
+01.1.6.1.9;Otras frutas tropicales frescas
+01.1.6.1.9.1;Anona
+01.1.6.1.9.2;Caimitos
+01.1.6.1.9.3;Granadilla
+01.1.6.1.9.9;Otras frutas tropicales frescas
+01.1.6.2;Frutas cítricas, frescas (ND)
+01.1.6.2.1;Pomelos y toronjas frescas
+01.1.6.2.2;Limones y limas frescas
+01.1.6.2.3;Naranjas frescas
+01.1.6.2.4;Mandarinas y clementinas frescas
+01.1.6.2.9;Otras frutas cítricas frescas
+01.1.6.3;Frutas con hueso y frutas de pomo, frescas (nd)
+01.1.6.3.1;Manzanas frescas
+01.1.6.3.2;Peras y membrillos frescos
+01.1.6.3.3;Albaricoques fresco
+01.1.6.3.4;Cerezas frescas
+01.1.6.3.5;Duraznos y nectarinas frescas
+01.1.6.3.6;Ciruelas y endrinas frescas
+01.1.6.3.9;Otras frutas con pepita y hueso, frescas
+01.1.6.3.9.1;Jocotes
+01.1.6.3.9.2;Chico
+01.1.6.3.9.3;Zapote
+01.1.6.3.9.4;Carambola
+01.1.6.3.9.5;Nance
+01.1.6.3.9.6;Coyoles
+01.1.6.3.9.7;Nísperos
+01.1.6.3.9.8;Tamarindo
+01.1.6.4;Bayas, frescas (ND)
+01.1.6.4.1;Grosellas, frescas
+01.1.6.4.2;Frambuesas, frescas
+01.1.6.4.3;Moras y zarzamoras frescas
+01.1.6.4.4;Fresas frescas
+01.1.6.4.5;Arándanos frescos
+01.1.6.4.9;Otras bayas frescas
+01.1.6.5;Otras frutas frescas (ND)
+01.1.6.5.1;Uvas frescas
+01.1.6.5.2;Kiwi fresco
+01.1.6.5.3;Melones frescos
+01.1.6.5.4;Sandías frescas
+01.1.6.5.5;Caquis frescos
+01.1.6.5.6;Jocote marañón fresco
+01.1.6.5.7;Granada
+01.1.6.5.9;Otras frutas frescas, N.E.C.
+01.1.6.6;Fruta congelada (ND)
+01.1.6.6.0;Fruta congelada
+01.1.6.7;Fruta, seca y deshidratada (ND)
+01.1.6.7.1;Pasas
+01.1.6.7.2;Ciruelas deshidratadas
+01.1.6.7.9;Otras frutas secas
+01.1.6.8;Semillas y/o frutos secos, con o sin cáscara (ND)
+01.1.6.8.1;Almendras, con o sin cáscara
+01.1.6.8.2;Semilla de marañón, con o sin cáscara
+01.1.6.8.3;Castañas
+01.1.6.8.4;Avellanas, con o sin cáscara
+01.1.6.8.5;Pistachos, con o sin cáscara
+01.1.6.8.6;Nueces, con o sin cáscara
+01.1.6.8.7;Manías, con o sin cáscara
+01.1.6.8.7.1;Manías con cascara
+01.1.6.8.7.2;Manías sin cascara
+01.1.6.8.9;Otras semillas y/o frutos secos, con o sin cáscara
+01.1.6.9;Frutas y frutos secos molidos y otras preparaciones (ND)
+01.1.6.9.1;Harina de frutas y frutos secos
+01.1.6.9.1.1;Harina de almendra
+01.1.6.9.1.2;Harina de pepitoria (pepita)
+01.1.6.9.1.9;Otras harinas de frutas y frutos secos
+01.1.6.9.2;Fruta enlatada
+01.1.6.9.3;Preparaciones de frutas homogeneizadas
+01.1.6.9.4;Frutos secos y semillas asadas, saladas o preparadas de otra manera
+01.1.6.9.9;Otras preparaciones de frutas y frutos secos
+01.1.7;Vegetales, tubérculos, plátanos, bananos y legumbres de cocción (ND)
+01.1.7.1;Vegetales de hoja o tallo, frescas o refrigeradas (ND)
+01.1.7.1.1;Espárragos, fresco o refrigerados
+01.1.7.1.2;Repollo, fresco o refrigerado
+01.1.7.1.3;Coliflores y brócoli, frescos o refrigerados
+01.1.7.1.3.1;Coliflor
+01.1.7.1.3.2;Brócoli
+01.1.7.1.4;Lechuga, achicoria y rugula, fresca o refrigerada
+01.1.7.1.5;Espinacas, frescas o refrigeradas
+01.1.7.1.6;Acelgas, frescas o refrigeradas
+01.1.7.1.7;Apio
+01.1.7.1.8;Cilantro, perejil y hierbabuena
+01.1.7.1.9;Otras verduras de hoja o tallo, frescas o refrigeradas
+01.1.7.1.9.1;Pacaya
+01.1.7.1.9.2;Macuy/Hierba mora/Quilete
+01.1.7.1.9.3;Chipilín
+01.1.7.1.9.4;Bledo
+01.1.7.1.9.5;Berro
+01.1.7.1.9.6;Alcachofas
+01.1.7.1.9.7;Loroco
+01.1.7.1.9.8;Flor de izote
+01.1.7.1.9.9;Otras verduras de hoja o tallo, frescas o refrigeradas
+01.1.7.2;Vegetales de fruto, frescos o refrigerados (ND)
+01.1.7.2.1;Chiles y pimientos, frescos o refrigerados
+01.1.7.2.1.1;Chile pimiento fresco
+01.1.7.2.1.2;Chile jalapeño fresco
+01.1.7.2.1.3;Chile morrón fresco
+01.1.7.2.1.4;Chile chiltepe fresco
+01.1.7.2.1.5;Chile serrano fresco
+01.1.7.2.1.6;Chile habanero fresco
+01.1.7.2.1.9;Otros chiles y pimientos frescos o refrigerados
+01.1.7.2.2;Pepinos y pepinillos, frescos o refrigerados
+01.1.7.2.3;Berenjenas, frescas o refrigeradas
+01.1.7.2.4;Tomates, frescos o refrigerados
+01.1.7.2.4.1;Tomate fresco
+01.1.7.2.4.2;Tomate manzano fresco
+01.1.7.2.4.3;Tomate cherry fresco
+01.1.7.2.4.4;Miltomate fresco
+01.1.7.2.4.9;Otros tipos de tomates frescos o refrigerados
+01.1.7.2.5;Calabazas y ayotes, frescos o refrigerados
+01.1.7.2.5.1;Peruleros
+01.1.7.2.5.2;Güisquil
+01.1.7.2.5.3;Güicoy
+01.1.7.2.5.4;Ayote y chilacayote
+01.1.7.2.5.5;Guicoyito y zucchini
+01.1.7.2.9;Otros vegetales de fruto, frescos o refrigerados
+01.1.7.3;Leguminosas, frescas o refrigeradas (ND)
+01.1.7.3.1;Frijoles, frescos o refrigerados
+01.1.7.3.2;Ejotes, frescos o refrigerados
+01.1.7.3.3;Arvejas, frescas o refrigeradas
+01.1.7.3.4;Habas, frescas o refrigeradas
+01.1.7.3.5;Soja, fresca o refrigerada
+01.1.7.3.9;Otras leguminosas, frescas o refrigeradas
+01.1.7.4;Otras verduras, frescas o refrigeradas (ND)
+01.1.7.4.1;Zanahorias y nabos, frescos o refrigerados
+01.1.7.4.1.1;Zanahorias
+01.1.7.4.1.2;Rábanos
+01.1.7.4.1.3;Nabos y colinabos
+01.1.7.4.1.4;Remolacha
+01.1.7.4.2;Ajo, fresco o refrigerado
+01.1.7.4.3;Cebollas y chalotes, frescos o refrigerados
+01.1.7.4.3.1;Cebollas
+01.1.7.4.3.2;Cebollines
+01.1.7.4.3.3;Chalotes
+01.1.7.4.4;Puerros y otras verduras aliacéusas, frescas o refrigeradas
+01.1.7.4.4.1;Puerro
+01.1.7.4.4.2;Coles de bruselas
+01.1.7.4.4.9;Otras verduras aliacéusas
+01.1.7.4.5;Hongos y champiñones, frescos o refrigerados
+01.1.7.4.6;Algas comestibles y otras plantas acuáticas, frescas o refrigeradas
+01.1.7.4.7;Maíz verde (elote)
+01.1.7.4.8;Verduras frescas o refrigeradas limpias y cortadas (excluye las ensaladas)
+01.1.7.4.9;Otros vegetales N.E.C., mezclas de verduras, frescas o refrigeradas.
+01.1.7.5;Tubérculos, plátanos y bananos de cocción (ND)
+01.1.7.5.1;Papas
+01.1.7.5.2;Camote
+01.1.7.5.3;Yuca
+01.1.7.5.4;Malanga (Ñame)
+01.1.7.5.5;Ichintal/raíz de güisquil
+01.1.7.5.6;Batatas
+01.1.7.5.7;Plátanos y bananos verdes
+01.1.7.5.9;Otros tubérculos
+01.1.7.6;Legumbres (ND)
+01.1.7.6.1;Frijoles, secos
+01.1.7.6.1.1;Frijoles negros, secos
+01.1.7.6.1.2;Frijoles colorados, secos
+01.1.7.6.1.9;Otros frijoles, secos (piloy, pinto, blanco, etc.)
+01.1.7.6.2;Habas, secas
+01.1.7.6.3;Garbanzos, secos
+01.1.7.6.4;Lentejas, secas
+01.1.7.6.5;Arvejas y guandú, secas
+01.1.7.6.9;Otras legumbres secas
+01.1.7.7;Otras verduras, tubérculos, plátanos y bananos de cocción, secos y deshidratados (ND)
+01.1.7.7.1;Frituras a base de papa
+01.1.7.7.2;Frituras a base de yuca
+01.1.7.7.3;Frituras a base de plátano
+01.1.7.7.4;Otras frituras a base de tubérculos (malanga, remolacha, camote, etc.)
+01.1.7.7.5;Purés a base de vegetales (pure de papas, etc.)
+01.1.7.8;Vegetales, tubérculos, plátanos y bananos de cocción, congelados (ND)
+01.1.7.8.1;Papas para freír congeladas
+01.1.7.8.2;Verduras congeladas (arvejas, ejotes, elote, verduras mixtas, etc.)
+01.1.7.9;Vegetales, tubérculos, plátanos, bananos de cocción y legumbres molidos y otras preparaciones (ND)
+01.1.7.9.1;Harina de verduras, legumbres, tubérculos, plátanos y bananos de cocción
+01.1.7.9.2;Vegetales enlatados
+01.1.7.9.3;Aceitunas conservadas
+01.1.7.9.4;Vegetales en curtido
+01.1.7.9.5;Tofu
+01.1.7.9.6;Carne de soja, hamburguesas de soja y tempeh
+01.1.7.9.9;Otras verduras, legumbres y tubérculos conservados o procesados
+01.1.7.9.9.1;Frijoles preparados, procesados y condimentados (enlatados o empaquetados)
+01.1.7.9.9.9;Otras verduras, legumbres y tubérculos preparados, conservados y procesados (enlatados o empaquetados)
+01.1.8;Azúcar, confitería y postres (ND)
+01.1.8.1;Azúcar de caña y remolacha (ND)
+01.1.8.1.1;Azúcar de caña
+01.1.8.1.1.1;Azúcar de caña blanca
+01.1.8.1.1.2;Azúcar de caña morena
+01.1.8.1.1.3;Panela
+01.1.8.2;Otros azúcares y sustitutos del azúcar (ND)
+01.1.8.2.1;Otros azúcares y sustitutos del azúcar
+01.1.8.2.1.1;Sucralosa (Splenda)
+01.1.8.2.1.2;Stevia
+01.1.8.2.1.3;Melaza (jarabe de maple, etc.)
+01.1.8.2.1.9;Otros azúcares y sustitutos del azúcar
+01.1.8.3;Mermeladas, jaleas de frutas, puré de frutas y pastas, miel (ND)
+01.1.8.3.1;Miel
+01.1.8.3.2;Mermeladas y jaleas
+01.1.8.3.9;Otras mermeladas, jaleas de frutas, mermeladas, puré de frutas y pastas
+01.1.8.4;Pure de nueces, mantequilla de nueces y pastas de nueces (ND)
+01.1.8.4.1;Pures, mantequilla y pastas de frutos secos
+01.1.8.4.1.1;Mantequilla de maní
+01.1.8.4.1.9;Otros pures, mantequilla y pastas de frutos secos
+01.1.8.5;Chocolate, cacao y productos a base de cacao (ND)
+01.1.8.5.1;Chocolate, incluir chocolate blanco
+01.1.8.5.2;Cacao para hervir en todas sus formas (excluye en polvo)
+01.1.8.5.3;Cacao en polvo
+01.1.8.5.4;Chocolate para cobertura (liquido y pasta)
+01.1.8.5.5;Granos de cacao
+01.1.8.5.6;Choco frutas y choco pan
+01.1.8.5.7;Productos a base de cacao y chocolate (incluye dulces como nucita)
+01.1.8.5.9;Otros productos a base de cacao y chocolate
+01.1.8.6;Hielo, helado y sorbete (ND)
+01.1.8.6.1;Hielo
+01.1.8.6.2;Helado industrializado (base a leche, hielo, fruta, etc.)
+01.1.8.6.3;Helado artesanal (topogigios, de molde, cucos, etc.)
+01.1.8.6.4;Granizadas o granitas
+01.1.8.6.9;Otros helados servido en cono o vasito para ser consumido en cualquier parte
+01.1.8.9;Otra confitería de azúcar y postres N.E.C.
+01.1.8.9.1;Vegetales, frutas, frutos secos, cáscara de frutas y otras partes de las plantas, conservadas por el azúcar
+01.1.8.9.1.1;Fruta conservada en almíbar
+01.1.8.9.1.2;Fruta cristalizada
+01.1.8.9.1.9;Otros vegetales, frutas, frutos secos, cáscara de frutas y otras partes de las plantas, conservadas por el azúcar
+01.1.8.9.9;Otra confitería de azúcar y postres N.E.C. (No contiene cacao)
+01.1.8.9.9.1;Dulces en general (incluye paletas, bombones, gomitas)
+01.1.8.9.9.2;Chicles
+01.1.8.9.9.3;Dulces típicos
+01.1.8.9.9.9;Otros productos dulces (incluye gelatinas de piñata, angelitos)
+01.1.9;Alimentos preparados y otros productos alimenticios N.E.C.
+01.1.9.1;Comida preparada (ND)
+01.1.9.1.1;Platos precocidos basados ​​en pasta y cereales (envasado)
+01.1.9.1.2;Platos precocidos basados ​​en carne y/o pescado (envasado)
+01.1.9.1.3;Ensaladas compuestas de diferentes verduras o complementos (envasado)
+01.1.9.1.4;Sándwiches, pizzas, pasteles de carne o pescado, congelados o no (envasado)
+01.1.9.1.5;Omelette, crepas y otros alimentos preparados basados ​​en huevo (envasado)
+01.1.9.1.6;Sopas preparadas envasadas
+01.1.9.1.7;Sopas instantáneas (Vaso y bolsa)
+01.1.9.1.9;Otros platos y comidas preparados listos para consumir N.E.C.
+01.1.9.2;Comida para bebés (ND)
+01.1.9.2.1;Fórmula para bebé
+01.1.9.2.2;Cereales y harinas para bebés
+01.1.9.2.3;Alimentos para bebés homogeneizados
+01.1.9.2.9;Otra comida para bebés
+01.1.9.3;Sal, condimentos y salsas (ND)
+01.1.9.3.1;Sal y sal condimentada
+01.1.9.3.1.1;Sal
+01.1.9.3.1.2;Sal condimentada
+01.1.9.3.2;Condimentos
+01.1.9.3.2.1;Consomé
+01.1.9.3.2.2;Sazonadores y ablandadores
+01.1.9.3.2.9;Otros condimentos
+01.1.9.3.3;Salsas
+01.1.9.3.3.1;Salsa de tomate (Ranchera, Queso etc.)
+01.1.9.3.3.2;Salsa tipo Kétchup
+01.1.9.3.3.3;Pasta de tomate
+01.1.9.3.3.4;Salsa blanca, pesto, etc. para pastas y comidas
+01.1.9.3.3.9;Otras salsas
+01.1.9.3.4;Aderezos
+01.1.9.3.4.1;Vinagre
+01.1.9.3.4.2;Mayonesa
+01.1.9.3.4.3;Mostaza
+01.1.9.3.4.4;Salsa de soja
+01.1.9.3.4.5;Salsas picantes
+01.1.9.3.4.6;Chimichurri
+01.1.9.3.4.7;Aderezos para ensaladas y sándwich
+01.1.9.3.4.8;Salsa inglesa
+01.1.9.3.4.9;Otros aderezos
+01.1.9.4;Especias, hierbas y semillas culinarias (ND)
+01.1.9.4.1;Especias y hierbas culinarias
+01.1.9.4.1.1;Pimienta (en todas sus presentaciones)
+01.1.9.4.1.2;Jengibre (en todas sus presentaciones)
+01.1.9.4.1.3;Tomillo, laurel y comino (en todas sus presentaciones)
+01.1.9.4.1.4;Apazote (en todas sus presentaciones)
+01.1.9.4.1.5;Orégano (en todas sus presentaciones)
+01.1.9.4.1.6;Canela (en todas sus presentaciones)
+01.1.9.4.1.7;Achiote (en todas sus presentaciones)
+01.1.9.4.1.8;Clavo de olor (en todas sus presentaciones)
+01.1.9.4.1.9;Otras especias y hierbas culinarias (en todas sus presentaciones)
+01.1.9.4.2;Semillas culinarias
+01.1.9.4.2.1;Pepitoria o pepita de ayote
+01.1.9.4.2.2;Sésamo o ajonjolí
+01.1.9.4.2.3;Chan o chía
+01.1.9.4.2.4;Linaza (en todas sus presentaciones)
+01.1.9.4.2.5;Cebada (en todas sus presentaciones)
+01.1.9.4.2.9;Otras semillas culinarias
+01.1.9.9;Otros productos alimenticios N.E.C.
+01.1.9.9.1;Otros productos alimenticios N.E.C.
+01.1.9.9.1.1;Levaduras y fermentos para la masa
+01.1.9.9.1.2;Bases para sopas (Maggie, Malher, Knorr)
+01.1.9.9.1.3;Empanizador
+01.1.9.9.1.4;Polvos para preparar postres
+01.1.9.9.1.5;Suplementos nutricionales
+01.1.9.9.1.6;Snacks (excluye papalinas, plataninas, yucas, malangas, etc.)
+01.1.9.9.1.7;Cal para uso en cocina
+01.1.9.9.1.9;Otros productos alimenticios
+01.2.1;Jugos de frutas y verduras (ND)
+01.2.1.0;Jugos de frutas y verduras (ND)
+01.2.1.0.1;Jugos de frutas
+01.2.1.0.1.1;Jugos de frutas líquidos
+01.2.1.0.1.2;Jugos de frutas en polvo
+01.2.1.0.1.3;Jugos de frutas en concentrado
+01.2.1.0.2;Jugos de verduras
+01.2.2;Café y sustitutos de café (ND)
+01.2.2.0;Café y sustitutos de café (ND)
+01.2.2.0.1;Café
+01.2.2.0.1.1;Café en grano
+01.2.2.0.1.2;Café molido
+01.2.2.0.1.3;Café instantáneo
+01.2.2.0.2;Sustitutos de café (café de cereales y de frutas)
+01.2.2.0.9;Otros cafés líquidos y en polvo (todo tipo de mezclas de café para preparar)
+01.2.3;Té, mate y otros productos vegetales para infusión (ND)
+01.2.3.0;Té, mate y otros productos vegetales para infusión (ND)
+01.2.3.0.1;Té verde, hojas y en bolsita
+01.2.3.0.2;Té negro, hojas y en bolsita
+01.2.3.0.3;Té frío líquido y en polvo
+01.2.3.0.4;Hierbas medicinales para infusiones y té de frutas
+01.2.3.0.5;Hierba mate
+01.2.3.0.9;Otros productos de té y productos vegetales para infusión
+01.2.4;Bebidas de cacao (ND)
+01.2.4.0;Bebidas de cacao (ND)
+01.2.4.0.0;Bebidas de cacao
+01.2.5;Agua (ND)
+01.2.5.0;Agua (ND)
+01.2.5.0.1;Agua purificada
+01.2.5.0.2;Agua mineral y agua gasificada
+01.2.6;Gaseosas (ND)
+01.2.6.0;Gaseosas (ND)
+01.2.6.0.0;Gaseosas
+01.2.9;Otras bebidas no alcohólicas (ND)
+01.2.9.0;Otras bebidas no alcohólicas (ND)
+01.2.9.0.1;Agua saborizada
+01.2.9.0.2;Bebidas hidratantes
+01.2.9.0.3;Bebidas energizantes
+01.2.9.0.4;Bebidas de aloe vera/sábila
+01.2.9.0.5;Bebidas a base de cereales (incluye incaparina liquida)
+01.3.0;Servicios para procesar bienes primarios para alimentos y bebidas no alcohólicas
+01.3.0.0;Servicios para procesar bienes primarios para alimentos y bebidas no alcohólicas
+01.3.0.0.1;Servicio de molienda de maíz
+01.3.0.0.2;Servicio de molienda de café
+01.3.0.0.9;Otros tipos de servicios de molienda
+02.1.1;Alcohol (bebidas alcohólicas) y licores
+02.1.1.0;Alcohol (bebidas alcohólicas) y licores
+02.1.1.0.1;Aguardientes, licores y otras bebidas con alto contenido de alcohol
+02.1.1.0.1.1;Aguardiente
+02.1.1.0.1.2;Ron
+02.1.1.0.1.3;Whisky
+02.1.1.0.1.4;Tequila
+02.1.1.0.1.5;Vodka
+02.1.1.0.1.6;Brandy
+02.1.1.0.1.7;Ginebra
+02.1.1.0.1.9;Otros aguardientes, licores y otras bebidas con alto contenido de alcohol
+02.1.2;Vino
+02.1.2.1;Vino de uva
+02.1.2.1.1;Vino tinto
+02.1.2.1.2;Vino blanco
+02.1.2.1.3;Vinos fortificados, como el Vermouth, Sherry, PortWine
+02.1.2.1.4;Champange y otras bebidas espumantes
+02.1.2.1.9;Otros vinos de uva
+02.1.2.2;Vino de otras fuentes
+02.1.2.2.1;Vinos secos
+02.1.2.2.2;Sidra (vino a base de frutas)
+02.1.2.2.3;Sake, chicha (vino a base de cereales)
+02.1.2.2.9;Otros vinos de otras frutas
+02.1.3;Cerveza
+02.1.3.0;Cerveza
+02.1.3.0.1;Cerveza (todo tipo)
+02.1.3.0.2;Malta
+02.1.3.0.9;Otro tipo de cerveza
+02.1.9;Otras bebidas alcohólicas
+02.1.9.0;Otras bebidas alcohólicas
+02.1.9.0.0;Otras bebidas alcohólicas
+02.2.0;Servicios de producción de alcohol
+02.2.0.0;Servicios de producción de alcohol
+02.2.0.0.1;Servicios de trituración y prensado de frutas/verduras para la producción de bebidas alcohólicas
+02.2.0.0.2;Servicios de destilación y fermentación
+02.2.0.0.3;Servicios de elaboración de cerveza
+02.2.0.0.4;Servicios de añejamiento y embotellado
+02.3.0;Tabaco
+02.3.0.1;Cigarros
+02.3.0.1.0;Cigarros
+02.3.0.2;Puros
+02.3.0.2.0;Puros
+02.3.0.9;Otros productos derivados de tabaco
+02.3.0.9.1;Tabaco para pipa, tabaco para mascar, mezclas de tabaco
+02.3.0.9.2;Tabaco de cigarro y hojas de tabaco
+02.3.0.9.3;Papel para cigarro de un solo uso y filtros
+02.3.0.9.4;Recargas para cigarro electrónicos, con o sin nicotina
+02.4.0;Narcóticos
+02.4.0.0;Narcóticos
+02.4.0.0.0;Marihuana, opio, coca, sus derivados, otros narcóticos a base de vegetales, productos químicos y drogas sintéticas
+03.1.1;Materiales de confección
+03.1.1.0;Materiales de confección
+03.1.1.0.1;Materiales de confección de fibra natural, sintética y otras mezclas
+03.1.1.0.1.1;Tela para ropa uso diario
+03.1.1.0.1.1.1;Telas para pantalón o casimir
+03.1.1.0.1.1.2;Telas para camisa, blusa y vestido
+03.1.1.0.1.1.3;Telas para faldas
+03.1.1.0.1.1.4;Telas para saco, chumpa y/o traje
+03.1.1.0.1.2;Tela para uniformes (trabajo y escolares)
+03.1.1.0.1.3;Telas tradicionales
+03.1.1.0.1.9;Otras telas
+03.1.1.0.2;Cuero, piel, guata y fieltro de relleno para confección de prendas
+03.1.2;Prendas de vestir
+03.1.2.1;Prendas de vestir para hombres (mayores de 12 años)
+03.1.2.1.1;Abrigos, impermeables, chumpas, chalecos, suéteres
+03.1.2.1.1.1;Chumpas, chaquetas y blazers
+03.1.2.1.1.2;Suéteres
+03.1.2.1.1.3;Sudaderos
+03.1.2.1.1.4;Chalecos
+03.1.2.1.1.5;Abrigos, impermeables
+03.1.2.1.2;Camisas, T-shirts, camisas deportivas
+03.1.2.1.2.1;Camisas formales
+03.1.2.1.2.2;Camisas tipo Polo
+03.1.2.1.2.3;Playeras
+03.1.2.1.2.4;Camisas para deporte
+03.1.2.1.3;Pantalones, pantalonetas, pants
+03.1.2.1.3.1;Pantalones de vestir
+03.1.2.1.3.2;Pantalones de lona
+03.1.2.1.3.3;Pants
+03.1.2.1.3.4;Bermudas
+03.1.2.1.3.5;Pantalonetas deportivas
+03.1.2.1.4;Trajes, combinaciones
+03.1.2.1.4.1;Trajes formales (incluye los trajes formales tradicionales)
+03.1.2.1.4.2;Trajes deportivos (chándal)
+03.1.2.1.4.3;Trajes de baño
+03.1.2.1.4.4;Pijamas y batas
+03.1.2.1.5;Ropa interior
+03.1.2.1.5.1;Calzoncillos
+03.1.2.1.5.2;Calcetines
+03.1.2.1.5.3;Camisetas y camisas
+03.1.2.2;Prendas de vestir para niños (mayores de 2 y menores de 12 años)
+03.1.2.2.1;Abrigos, impermeables, chumpas, chalecos, suéteres
+03.1.2.2.1.1;Chumpas y chaquetas
+03.1.2.2.1.2;Suéteres
+03.1.2.2.1.3;Sudaderos
+03.1.2.2.1.4;Chalecos
+03.1.2.2.1.5;Abrigos, impermeables
+03.1.2.2.2;Camisas, T-shirts, camisas deportivas
+03.1.2.2.2.1;Camisas de vestir
+03.1.2.2.2.2;Camisas tipo Polo
+03.1.2.2.2.3;Playeras
+03.1.2.2.2.4;Camisas deportivas
+03.1.2.2.3;Pantalones, pantalonetas, pants
+03.1.2.2.3.1;Pantalones de vestir
+03.1.2.2.3.2;Pantalones de lona
+03.1.2.2.3.3;Pants
+03.1.2.2.3.4;Bermudas
+03.1.2.2.3.5;Pantalonetas deportivas
+03.1.2.2.4;Trajes, combinaciones
+03.1.2.2.4.1;Trajes formales (incluye los trajes formales tradicionales)
+03.1.2.2.4.2;Trajes deportivos
+03.1.2.2.4.3;Trajes de baño
+03.1.2.2.4.4;Pijamas y batas
+03.1.2.2.5;Ropa interior
+03.1.2.2.5.1;Calzoncillos
+03.1.2.2.5.2;Calcetines
+03.1.2.2.5.3;Camisetas y camisas
+03.1.2.3;Prendas de vestir para mujeres (mayores de 12 años)
+03.1.2.3.1;Abrigos, impermeables, chumpas, chalecos, suéteres
+03.1.2.3.1.1;Chumpas, chaquetas y blazers
+03.1.2.3.1.2;Suéteres, mañaneras
+03.1.2.3.1.3;Sudaderos
+03.1.2.3.1.4;Chalecos
+03.1.2.3.1.5;Abrigos, impermeables
+03.1.2.3.2;Camisas, blusas, camisas deportivas
+03.1.2.3.2.1;Blusas formales
+03.1.2.3.2.2;Blusas casuales
+03.1.2.3.2.3;Blusas deportivas y tops deportivos
+03.1.2.3.3;Pantalones, pantalonetas, pants
+03.1.2.3.3.1;Pantalones de vestir
+03.1.2.3.3.2;Pantalones de lona
+03.1.2.3.3.3;Leggins
+03.1.2.3.3.4;Pants
+03.1.2.3.3.5;Pantaloneta
+03.1.2.3.3.6;Pantaloneta deportiva
+03.1.2.3.4;Faldas, vestidos
+03.1.2.3.4.1;Vestidos formales y casuales
+03.1.2.3.4.2;Vestidos de fiesta
+03.1.2.3.4.3;Faldas formales y casuales
+03.1.2.3.4.4;Faldas de lona
+03.1.2.3.5;Trajes, combinaciones
+03.1.2.3.5.1;Traje formal
+03.1.2.3.5.2;Traje tradicional
+03.1.2.3.5.3;Traje deportivo
+03.1.2.3.5.4;Traje de baño
+03.1.2.3.5.5;Pijama, baby doll, batas
+03.1.2.3.5.6;Prenda tradicional
+03.1.2.3.6;Ropa interior
+03.1.2.3.6.1;Calzones
+03.1.2.3.6.2;Sostenes
+03.1.2.3.6.3;Calcetas y medias
+03.1.2.3.6.4;Enaguas, fustán
+03.1.2.4;Prendas de vestir para niñas (mayores de 2 y menores de 12 años)
+03.1.2.4.1;Abrigos, impermeables, chumpas, chalecos, suéteres
+03.1.2.4.1.1;Chumpas y chaquetas
+03.1.2.4.1.2;Suéteres, mañaneras
+03.1.2.4.1.3;Sudaderos
+03.1.2.4.1.4;Chalecos
+03.1.2.4.1.5;Abrigos, impermeables
+03.1.2.4.2;Camisas, blusas, camisas deportivas
+03.1.2.4.2.1;Blusas formales y casuales
+03.1.2.4.2.2;Blusas deportivas
+03.1.2.4.3;Pantalones, pantalonetas, pants
+03.1.2.4.3.1;Pantalones de vestir
+03.1.2.4.3.2;Pantalones de lona
+03.1.2.4.3.3;Leggins
+03.1.2.4.3.4;Pants
+03.1.2.4.3.5;Pantaloneta
+03.1.2.4.3.6;Pantaloneta deportiva
+03.1.2.4.4;Trajes, combinaciones
+03.1.2.4.4.1;Traje formal
+03.1.2.4.4.2;Traje tradicional
+03.1.2.4.4.3;Traje deportivo
+03.1.2.4.4.4;Traje de baño
+03.1.2.4.4.5;Pijama y batas
+03.1.2.4.4.6;Prenda tradicional
+03.1.2.4.5;Faldas, vestidos
+03.1.2.4.5.1;Vestidos formales y casuales
+03.1.2.4.5.2;Vestidos de fiesta
+03.1.2.4.5.3;Faldas
+03.1.2.4.5.4;Faldas de lona
+03.1.2.4.6;Ropa interior
+03.1.2.4.6.1;Calzones
+03.1.2.4.6.2;Sujetadores, camisetas
+03.1.2.4.6.3;Calcetas
+03.1.2.5;Prendas de vestir para bebés (menores de 2 años)
+03.1.2.5.1;Capas, abrigos, blusones, chaquetas, chalecos
+03.1.2.5.1.1;Camisas/blusas
+03.1.2.5.1.2;Chaquetas, suéteres, abrigos
+03.1.2.5.1.3;Playeras/cotones
+03.1.2.5.1.4;Chalecos
+03.1.2.5.2;Pantalones, trajes, vestidos, faldas, disfraces
+03.1.2.5.2.1;Pantalones
+03.1.2.5.2.2;Pantalonetas
+03.1.2.5.2.3;Vestidos
+03.1.2.5.2.4;Faldas
+03.1.2.5.2.5;Mamelucos y bodys
+03.1.2.5.2.6;Disfraces
+03.1.2.5.2.7;Pijamas
+03.1.2.5.2.9;Otras prendas exteriores
+03.1.2.5.3;Chalecos, calzones, calcetas/calcetines, medias/pantis
+03.1.2.5.3.1;Pañales de tela
+03.1.2.5.3.2;Calzón/calzoncillo
+03.1.2.5.3.3;Calcetines/calcetas
+03.1.2.6;Uniformes escolares
+03.1.2.6.1;Uniformes escolares para niños
+03.1.2.6.1.1;Suéter
+03.1.2.6.1.2;Camisa
+03.1.2.6.1.3;Pantalón
+03.1.2.6.2;Uniformes escolares para niñas
+03.1.2.6.2.1;Suéter
+03.1.2.6.2.2;Blusa
+03.1.2.6.2.3;Falda
+03.1.2.6.3;Otros uniformes
+03.1.3;Otras prendas y accesorios de vestir
+03.1.3.1;Otras prendas de vestir
+03.1.3.1.1;Corbatas, pañuelos, bufandas
+03.1.3.1.1.1;Corbatas
+03.1.3.1.1.2;Bufandas
+03.1.3.1.1.3;Pañuelos
+03.1.3.1.2;Guantes, mitones, etc.
+03.1.3.1.2.1;Guates y mitones para bebe
+03.1.3.1.2.2;Guantes para niños y adultos
+03.1.3.1.2.3;Guantes de trabajo
+03.1.3.1.3;Cinchos, tirantes
+03.1.3.1.3.1;Cinchos
+03.1.3.1.3.2;Tirantes
+03.1.3.1.4;Batas, gabachas, delantales, baberos
+03.1.3.1.4.1;Bata de trabajo
+03.1.3.1.4.2;Gabacha y delantales
+03.1.3.1.4.3;Baberos
+03.1.3.1.5;Sombreros, gorras, boinas y gorros
+03.1.3.1.5.1;Gorras
+03.1.3.1.5.2;Gorros/boinas
+03.1.3.1.5.3;Sombreros
+03.1.3.2;Accesorios de confección
+03.1.3.2.1;Hilos para coser, lana
+03.1.3.2.1.1;Hilos
+03.1.3.2.1.2;Lana
+03.1.3.2.2;Artículos para hacer ropa, botones, botones de broches, zippers, listones, encajes, etc.,
+03.1.3.2.2.1;Botones/broches
+03.1.3.2.2.2;Zipper
+03.1.3.2.2.3;Listones/cintas/elástico
+03.1.3.2.2.4;Encaje
+03.1.3.2.2.5;Hebillas
+03.1.4;Limpieza, reparación, confección y alquiler de ropa
+03.1.4.1;Limpieza de ropa
+03.1.4.1.1;Lavado
+03.1.4.1.2;Secado
+03.1.4.1.3;Planchado
+03.1.4.1.4;Teñido de prendas
+03.1.4.2;Reparación, confección y alquiler de ropa
+03.1.4.2.1;Reparación/arreglo, cosido, remiendo y alteraciones de ropa
+03.1.4.2.2;Confección de vestimentas cuando el cliente suministra el material
+03.1.4.2.3;Alquiler de prendas
+03.2.1;Zapatos y otros calzados
+03.2.1.1;Zapatos para hombre
+03.2.1.1.1;Calzado para hombre ya sea listo para usar o hecho a la medida
+03.2.1.1.1.1;Zapato acordonado
+03.2.1.1.1.2;Zapato tipo moccasin
+03.2.1.1.1.3;Botas y botines
+03.2.1.1.1.4;Tenis (Zapatillas)
+03.2.1.1.1.5;Sandalias (chanclas, caites, pantuflas)
+03.2.1.1.2;Cordones o cintas para zapatos
+03.2.1.1.3;Plantillas para zapatos
+03.2.1.2;Zapatos para mujer
+03.2.1.2.1;Calzado para mujer ya sea listo para usar o hecho a la medida
+03.2.1.2.1.1;Zapatos casuales
+03.2.1.2.1.2;Zapatos de tacón alto y bajo
+03.2.1.2.1.3;Sandalias con o sin tacón
+03.2.1.2.1.4;Botas o botines con y sin tacón
+03.2.1.2.1.5;Chanclas, caites, pantuflas
+03.2.1.2.1.6;Tenis (Zapatillas)
+03.2.1.3;Zapatos para bebés y niños
+03.2.1.3.1;Calzado para bebés y niños (menores a 13 años) ya sean listos para usar o hechos a la medida
+03.2.1.3.1.1;Zapatos casuales (incluye sandalias, chanclas, caites y pantuflas)
+03.2.1.3.1.2;Zapatos escolares
+03.2.1.3.1.3;Tenis (Zapatillas)
+03.2.1.3.1.4;Calzado para bebes menores de 2 años
+03.2.2;Limpieza, reparación y alquiler de zapatos
+03.2.2.1;Limpieza, reparación y alquiler de zapatos
+03.2.2.1.1;Reparación de calzado
+03.2.2.1.2;Limpieza de calzado
+03.2.2.1.3;Teñido de zapatos
+03.2.2.1.4;Alquiler de zapatos
+05.1.1;Muebles, mobiliario y alfombras
+05.1.1.1;Mobiliario para el hogar
+05.1.1.1.1;Muebles de sala
+05.1.1.1.1.1;Juego de sala
+05.1.1.1.1.2;Sofá o sillón
+05.1.1.1.1.3;Mesa de centro
+05.1.1.1.1.4;Estante para sala
+05.1.1.1.1.9;Otros mubles de sala
+05.1.1.1.2;Muebles de comedor
+05.1.1.1.2.1;Juego de comedor
+05.1.1.1.2.2;Mesa de comedor
+05.1.1.1.2.3;Silla de comedor
+05.1.1.1.2.9;Otros muebles de comedor
+05.1.1.1.3;Muebles de cocina
+05.1.1.1.3.1;Gabinete para cocina
+05.1.1.1.3.2;Alacena
+05.1.1.1.3.9;Otros muebles de cocina
+05.1.1.1.4;Muebles de dormitorio
+05.1.1.1.4.1;Mesas de noche
+05.1.1.1.4.2;Armarios, roperos y closets
+05.1.1.1.4.3;Camas, literas, cunas
+05.1.1.1.4.4;Colchones, somieres, tatamis
+05.1.1.1.4.5;Cómodas, gaveteros, cambiador de bebe
+05.1.1.1.4.9;Otros muebles de dormitorio
+05.1.1.1.9;Otro mobiliario para el hogar
+05.1.1.1.9.1;Corrales para bebes
+05.1.1.1.9.2;Muebles para baños
+05.1.1.1.9.3;Perezosa
+05.1.1.1.9.4;Escritorio
+05.1.1.1.9.5;Estanterías
+05.1.1.1.9.6;Sofás, sillas y camas inflables
+05.1.1.1.9.7;Piezas de muebles hechos específicamente por pedido del cliente
+05.1.1.1.9.9;Otros muebles para el hogar no especificados
+05.1.1.2;Mobiliario de jardín y camping
+05.1.1.2.1;Muebles de jardín
+05.1.1.2.2;Muebles de camping
+05.1.1.2.3;Piezas de muebles de jardín hechos específicamente por pedido del cliente
+05.1.1.3;Equipo de iluminación
+05.1.1.3.1;Equipo de iluminación como luces de techo, lámparas estándar, luces de globo, lámparas de noche y cadena de luz LED
+05.1.1.3.1.1;Lámparas para techo, pared
+05.1.1.3.1.2;Lámparas de piso, mesa, escritorio
+05.1.1.3.1.3;Equipo de luces led (cadena de luces, luces led decorativa, manguera de luces)
+05.1.1.4;Mobiliario, alfombras y moquetas
+05.1.1.4.1;Alfombras y tapetes sueltos
+05.1.1.4.2;Pinturas, esculturas, grabados, tapices para decoración
+05.1.1.4.3;Estatuillas y otros artículos decorativos de porcelana y cristal
+05.1.1.4.4;Relojes de pared, relojes despertadores y relojes de viaje
+05.1.1.4.5;Biombos, tabiques flexibles, persianas no textiles
+05.1.1.4.6;Espejos
+05.1.1.4.7;Cuero y piel para tapicería y decoración de habitaciones
+05.1.2;Reparación, instalación y alquiler de muebles, enseres y alfombras
+05.1.2.0;Reparación, instalación y alquiler de muebles, enseres y alfombras
+05.1.2.0.1;Reparación de muebles, enseres, y alfombras sueltas
+05.1.2.0.2;Trabajos de restauración de arte, muebles antiguos y revestimientos de suelos antiguos distintos a los adquiridos como
+05.1.2.0.2.1;Restauración de obras de arte
+05.1.2.0.2.2;Restauración de muebles
+05.1.2.0.2.3;Revestimientos de pisos antiguos
+05.1.2.0.3;Cargos por alquiler de muebles, enseres y alfombras sueltas
+05.1.2.0.4;Cargos por instalación de muebles, si se cargan de forma separada
+05.2.1;Textiles para el hogar
+05.2.1.1;Telas para muebles y cortinas
+05.2.1.1.1;Cortinas, toldos, persianas, telas para muebles, decoración del hogar y materiales para cortinas
+05.2.1.1.1.1;Cortinas (tela, seda, cualquier material)
+05.2.1.1.1.2;Tela para cortinas, muebles y decoración del hogar
+05.2.1.1.1.3;Toldos
+05.2.1.2;Ropa de cama
+05.2.1.2.1;Ropa de cama como sábanas, fundas de almohada, mantas, mantas de viaje, edredones, colchas y mosquiteros
+05.2.1.2.1.1;Sábanas y fundas de almohada
+05.2.1.2.1.2;Mantas, ponchos, frazadas, chamarras, cobijas, franela
+05.2.1.2.1.3;Edredón, cobertor, colchas
+05.2.1.2.1.4;Pabellón (mosquitero)
+05.2.1.2.2;Colchonetas, almohadas, hamacas y futones
+05.2.1.2.2.1;Colchonetas
+05.2.1.2.2.2;Almohadas
+05.2.1.2.2.3;Hamacas
+05.2.1.2.2.4;Futones
+05.2.1.3;Mantelería y ropa de baño
+05.2.1.3.1;Manteles y telas de baño como manteles, servilletas de mesa, toallas y paños para el rostro
+05.2.1.3.1.1;Manteles
+05.2.1.3.1.1.1;Manteles de tela
+05.2.1.3.1.1.2;Manteles de plástico
+05.2.1.3.1.1.3;Individuales de tela o plástico
+05.2.1.3.1.2;Servilletas de tela, mantas para tortillas
+05.2.1.3.1.3;Paños de tela para limpieza y secado
+05.2.1.3.1.4;Toallas de tela
+05.2.1.3.1.5;Tapetes de baño
+05.2.1.3.1.6;Cobertores de baño
+05.2.1.3.1.9;Otros manteles y telas de baño
+05.2.1.9;Otros textiles para el hogar
+05.2.1.9.1;Bolsas de compras y lavandería
+05.2.1.9.2;Fundas de tela/plástico para muebles o electrodomésticos
+05.2.1.9.3;Sombrilla para jardín o playa
+05.2.1.9.9;Otros textiles para el hogar no identificados anteriormente
+05.2.2;Reparación, alquiler y costura de textiles para el hogar
+05.2.2.0;Reparación, alquiler y costura de textiles para el hogar
+05.2.2.0.1;Reparación de textiles del hogar
+05.2.2.0.2;Servicios de costura de textiles del hogar
+05.2.2.0.3;Cargos por alquiler de textiles del hogar
+05.3.1;Electrodomésticos principales
+05.3.1.1;Electrodomésticos de cocina principales
+05.3.1.1.1;Refrigeradores y refrigeradores de temperatura dual
+05.3.1.1.2;Lavavajillas o Lavaplatos
+05.3.1.1.3;Paneles eléctricos, cerámicos, de inducción, placas de cocción, rostizadores, hornos eléctricos, gas, convección,
+05.3.1.1.3.1;Estufas (Gas, Eléctricas, Carbón, Leña, Etc.)
+05.3.1.1.3.2;Paneles eléctricos, cerámicos, de inducción (estufas de sobremesa)
+05.3.1.1.3.3;Asadores, Churrasquera grande (Gas, Eléctricas, Carbón, Leña, Etc.)
+05.3.1.1.3.4;Hornos de Microondas
+05.3.1.1.3.5;Hornos eléctricos multifuncionales
+05.3.1.1.4;Campanas Extractoras
+05.3.1.2;Electrodomésticos de lavandería principales
+05.3.1.2.1;Lavadoras, secadoras, secadoras de tambor, gabinetes de secado, radiadores de secado
+05.3.1.2.1.1;Lavadoras
+05.3.1.2.1.2;Secadoras
+05.3.1.2.1.3;Torre de lavado y secado
+05.3.1.2.1.4;Armario de secado y secadores de toallas
+05.3.1.2.2;Máquinas de planchado y mangles eléctricos
+05.3.1.3;Calentadores y aires acondicionados principales
+05.3.1.3.1;Aire acondicionado, humidificadores, calentadores de espacio y calentadores de agua
+05.3.1.3.1.1;Aire acondicionado
+05.3.1.3.1.2;Calentador de agua
+05.3.1.3.1.3;Calentadores de espacio
+05.3.1.3.1.4;Humidificadores, deshumidificadores y purificadores de aire
+05.3.1.4;Equipo de limpieza
+05.3.1.4.1;Aspiradoras, máquinas de limpieza a vapor, lavadoras de alfombras, máquinas para lavado, encerado y pulido de pisos
+05.3.1.4.1.1;Aspiradoras
+05.3.1.4.1.2;Máquinas de lavado de alfombras y/o limpieza a vapor
+05.3.1.4.1.3;Máquina para encerar y pulir pisos
+05.3.1.9;Otros electrodomésticos principales
+05.3.1.9.1;Otros electrodomésticos principales como cajas fuertes, máquinas de coser, máquinas para tejer, suavizadores de agua
+05.3.1.9.1.1;Máquinas para coser
+05.3.1.9.1.2;Otros electrodomésticos no mencionados
+05.3.2;Electrodomésticos pequeños
+05.3.2.1;Electrodomésticos para cocinar y procesar alimentos
+05.3.2.1.1;Máquinas multifuncionales, mezcladoras de comida, licuadoras y licuadoras con elementos para calentamiento
+05.3.2.1.1.1;Máquina procesadora de alimentos, extractores
+05.3.2.1.1.2;Licuadoras
+05.3.2.1.1.3;Ollas arroceras, ollas de cocción lenta
+05.3.2.1.1.4;Tostadora, wafleras y sandwichera
+05.3.2.1.1.5;Freidoras de aceite, freidora de aire
+05.3.2.1.1.6;Estufa portátil (1 o 2 hornillas, gas o eléctrica)
+05.3.2.1.1.7;Batidoras
+05.3.2.1.1.9;Otras maquinas multifuncionales
+05.3.2.1.2;Artículos no eléctricos para cocinar y procesar comida, como rebanadores, balanzas, etc.
+05.3.2.1.2.1;Rebanadoras
+05.3.2.1.2.2;Parrilla de carne y pescado (Churrasqueras PEQUEÑAS)
+05.3.2.1.2.3;Abrelatas
+05.3.2.1.2.4;Cuchillos para cocinar
+05.3.2.1.2.9;Otros artículos no eléctricos para cocinar
+05.3.2.2;Electrodomésticos para preparar bebidas
+05.3.2.2.1;Máquinas para hacer café (convencionales, programables, expreso, etc.)
+05.3.2.2.1.1;Percoladoras y/cafetera
+05.3.2.2.1.2;Cafeteras programables
+05.3.2.2.1.9;Otras maquinas para hacer café
+05.3.2.2.2;Teteras
+05.3.2.2.3;Hervidora de agua
+05.3.2.2.4;Molino de café
+05.3.2.2.5;Maquinas de agua gaseosa
+05.3.2.2.6;Extractores y exprimidor de jugos
+05.3.2.2.7;Artículos no eléctricos para preparar bebidas como molinos de café, extractores, etc.
+05.3.2.9;Otros electrodomésticos pequeños
+05.3.2.9.1;Planchas Eléctricas
+05.3.2.9.2;Ventiladores
+05.3.2.9.3;Mantas Eléctricas
+05.3.2.9.4;Otros artículos no eléctricos para el hogar, como planchadores, etc.
+05.3.3;Reparación, instalación y alquiler de electrodomésticos
+05.3.3.1;Reparación, instalación y alquiler de electrodomésticos
+05.3.3.1.1;Reparación de electrodomésticos
+05.3.3.1.2;Cargo por alquiler de electrodomésticos
+05.3.3.1.3;Cargo por instalación de electrodomésticos
+05.4.0;Cristalería, vajillas y utensilios domésticos
+05.4.0.1;Cristalería, cerámica y loza utilizados para cocina, comedor, baño, oficina y decoración de interiores
+05.4.0.1.1;Cristalería, cerámica y loza utilizados para cocina, comedor, baño, oficina y decoración de interiores
+05.4.0.1.1.1;Vasos de cristal, y tazas de cerámica o porcelana
+05.4.0.1.1.2;Vajillas de todo tipo
+05.4.0.1.1.9;Otros artículos de cristalería cerámica y loza para baño, oficina y decoración de interiores
+05.4.0.2;Cubiertos, cubiertos de mesa y cubiertos de plata
+05.4.0.2.1;Cubiertos metálicos o de plata
+05.4.0.3;Utensilios y artículos de cocina
+05.4.0.3.1;Utensilios de cocina de cualquier material, como cacerola, ollas de presión, etc.
+05.4.0.3.1.1;Cacerola
+05.4.0.3.1.2;Ollas y sartenes
+05.4.0.3.1.3;Ollas a presión
+05.4.0.3.1.4;Comales y/o planchas para estufa
+05.4.0.3.1.9;Otros utensilios de cocina
+05.4.0.3.2;Artículos del hogar de cualquier material, como contenedores para pan, café, especias, etc. Basureros, cesto de ropa,
+05.4.0.3.2.1;Recipientes para pan, café, ensalada, especies, etc.
+05.4.0.3.2.2;Recipientes desechos, basureros y/o papeleras
+05.4.0.3.2.3;Cestos de ropa, tinajas, cubetas, bañeras
+05.4.0.3.2.4;Pachones, biberones, termos y hieleras
+05.4.0.3.2.9;Otros artículos del hogar de cualquier material
+05.4.0.4;Reparación y alquiler de cristalerías, vajillas y utensilios domésticos
+05.4.0.4.0;Reparación y alquiler de cristalerías, vajillas y utensilios domésticos
+05.5.1;Herramientas y equipos motorizados
+05.5.1.0;Herramientas y equipos motorizados
+05.5.1.0.1;Taladros eléctricos, taladros de percusión, sierras eléctricas, lijadoras eléctricas
+05.5.1.0.1.1;Taladro, taladro percutor y rotomartillos eléctricos
+05.5.1.0.1.2;Sierras eléctricas (circular, caladora)
+05.5.1.0.1.3;Pulidora y lijadora eléctricas
+05.5.1.0.2;Tractores de jardín, motosierras, cortadoras de césped, cultivadoras
+05.5.1.0.2.1;Cortadoras de césped
+05.5.1.0.2.2;Motosierras
+05.5.1.0.3;Bombas de agua
+05.5.1.0.4;Desarmadores eléctricos
+05.5.2;Herramientas no motorizadas y accesorios varios
+05.5.2.1;Herramientas no motorizadas
+05.5.2.1.1;Sierras, martillos, destornilladores, llaves, alicates, cuchillas, limas
+05.5.2.1.1.1;Sierras manuales
+05.5.2.1.1.2;Martillo, martillo de bola y mazo
+05.5.2.1.1.3;Destornilladores
+05.5.2.1.1.4;Llaves
+05.5.2.1.1.5;Alicates
+05.5.2.1.1.6;Machetes, cuchillas, guadañas, hoces
+05.5.2.1.1.7;Escofinas y limas
+05.5.2.1.2;Tijeras, carretillas, regaderas de jardín, magueras, palas, rastrillos y tijeras para podar
+05.5.2.1.2.1;Tijeras podadoras y otras de uso domestico
+05.5.2.1.2.2;Carretas o carretillas
+05.5.2.1.2.3;Mangueras, regadera de jardín
+05.5.2.1.2.4;Palas, piocha, picos y azadón
+05.5.2.1.2.5;Rastrillos, horcas
+05.5.2.1.3;Escaleras y peldaños
+05.5.2.2;Accesorios varios
+05.5.2.2.1;Herrajes para radiadores y chimeneas, otros artículos metálicos para el hogar (cortineros, ganchos, etc.) o el jardín
+05.5.2.2.1.1;Cinta métrica
+05.5.2.2.2;Accesorios eléctricos pequeños, como bombillas, tubos de luz fluorescentes, linternas, baterías eléctricas para uso
+05.5.2.2.2.1;Bombillas (incandescentes, flourentes (ahorrativas) y led
+05.5.2.2.2.2;Tubos de luz fluorescentes
+05.5.2.2.2.3;Linternas
+05.5.2.2.2.4;baterías eléctricas para uso general
+05.5.2.2.2.9;Otros accesorios eléctricos pequeños
+05.5.3;Reparación y alquiler de herramientas y equipos motorizados y no motorizados
+05.5.3.0;Reparación y alquiler de herramientas y equipos motorizados y no motorizados
+05.5.3.0.1;Reparación y alquiler de herramientas y equipos motorizados
+05.5.3.0.2;Reparación y alquiler de pequeñas herramientas no motorizadas y accesorios varios
+05.6.1;Artículos domésticos no duraderos
+05.6.1.1;Productos de limpieza y mantenimiento del hogar
+05.6.1.1.1;Detergentes para lavado a mano y/o máquina, polvos para limpiar, desinfectante, cloro, suavizante para ropa, removedor
+05.6.1.1.1.1;Detergente en polvo o líquido
+05.6.1.1.1.2;Jabón para ropa
+05.6.1.1.1.3;Desinfectante
+05.6.1.1.1.4;Cloro
+05.6.1.1.1.5;Jabón para trastos en crema, líquido, trozo y polvo
+05.6.1.1.1.6;Suavizantes de ropa
+05.6.1.1.1.9;Otros detergentes  y polvos de limpieza
+05.6.1.1.2;Limpiador general, productos de limpieza de ventanas y agentes desbloqueantes
+05.6.1.1.2.1;Limpiadores de vidrios
+05.6.1.1.2.2;Limpiadores de multisuperficies
+05.6.1.1.2.3;Limpiadores especiales
+05.6.1.1.2.4;Pastillas aromáticas y desinfectantes para baño
+05.6.1.1.2.5;Agentes desbloquentes de cañerías
+05.6.1.1.3;Cera y pulidores para pisos
+05.6.1.1.4;Pulidores, cremas y otros productos para limpieza de calzado (cepillo de zapatos)
+05.6.1.1.5;Cepillos para polvo, plumeros
+05.6.1.1.5.1;Escobas
+05.6.1.1.5.2;Trapeadores
+05.6.1.1.5.3;Plumeros
+05.6.1.1.5.4;Recogedor de basura
+05.6.1.1.6;Paños, paños para el suelo, gamuzas
+05.6.1.1.7;Cepillos para trastes, esponjas, estropajos, cepillos de acero
+05.6.1.1.7.1;Cepillos
+05.6.1.1.7.2;Esponjas
+05.6.1.1.7.3;Estropajos
+05.6.1.1.8;Bolsas de aspiradoras
+05.6.1.1.9;Químicos para limpieza de piscinas y químicos para tratamiento de agua
+05.6.1.9;Otros artículos domésticos no duraderos
+05.6.1.9.1;Insecticidas, pesticidas, fungicidas, agua destilada
+05.6.1.9.1.1;Aromatizante ambiental
+05.6.1.9.1.2;Insecticidas, pesticidas, fungicidas
+05.6.1.9.2;Filtros, manteles, servilletas de mesa, papel de cocina, papel para hornear, papel film, aluminio, tapetes de mesa
+05.6.1.9.2.1;Papel de cocina (papel mayordomo)
+05.6.1.9.2.2;Papel aluminio
+05.6.1.9.2.9;Otros plásticos o papeles desechables para la cocina
+05.6.1.9.3;Platos, vasos y cubiertos desechables
+05.6.1.9.3.1;Platos y vasos desechables
+05.6.1.9.3.2;Cubiertos desechables
+05.6.1.9.3.3;Moldes y bandejas desechables
+05.6.1.9.4;Candelas, mechas de lámpara, alcoholes metilados, bolsas plásticas, bolsas de basura
+05.6.1.9.4.1;Bolsas de plástico
+05.6.1.9.4.2;Veladoras
+05.6.1.9.4.3;Velas y candelas
+05.6.1.9.5;Cerillos, ganchos de ropa, perchas, pines, alfileres, agujas para coser, agujas para tejer, dedales, clavos, tornillos,
+05.6.1.9.5.1;Fósforos y/o cerillos
+05.6.1.9.5.2;Lazos, cuerdas, pitas y cordeles para tender ropa
+05.6.1.9.5.3;Agujas y alfileres
+05.6.1.9.5.4;Clavos, tornillos, tachuelas
+05.6.1.9.5.5;Cintas adhesivas (incluye cinta de aislar)
+05.6.1.9.5.6;Guantes de plástico o goma
+05.6.1.9.5.9;Otros artículos no duraderos
+05.6.2;Servicios domésticos
+05.6.2.1;Servicios domésticos por personal remunerado
+05.6.2.1.1;Servicios domésticos provistos por personal empleado en servicio privado, como mayordomo, cocineros, mucamas, choferes,
+05.6.2.1.1.1;Servicio de empleada doméstica, mayordomo, mucama
+05.6.2.1.1.2;Servicio de institutriz o niñeras
+05.6.2.1.1.3;Servicio de cocinero
+05.6.2.1.1.4;Servicio de jardinería
+05.6.2.1.1.5;Servicio de chofer
+05.6.2.1.2;Empleada doméstica que planchan y lavan ropa de la familia
+05.6.2.9;Otros servicios domésticos
+05.6.2.9.1;Tintorería de textiles y prendas del hogar
+05.6.2.9.2;Limpieza de alfombras
+05.6.2.9.3;Lavandería y teñido de textiles del hogar
+05.6.2.9.4;Otros servicios prestados por empresas o trabajadores por cuenta propia
+05.6.2.9.5;Exterminación de pestes y desinfección
+05.6.2.9.6;Cuidado de casa en ausencia de dueño
+07.1.1;Automotores
+07.1.1.1;Automotores nuevos
+07.1.1.1.1;Autos nuevos, furgonetas, camionetas, carros familiares, SUVs, todoterreno, pick-ups, etc.
+07.1.1.1.1.1;Vehículo nuevo (Sedan, Hatchback, Convertible, Sports Car, Coupé)
+07.1.1.1.1.2;Pick up nuevo (Pick up compacta, Pick up mediana, Pick ups grandes)
+07.1.1.1.1.3;Camioneta nueva (Crossover, Minivan, Station Wagon)
+07.1.1.1.1.4;Vehículo todo terreno nuevo (Jeeps, buggies, razors)
+07.1.1.1.2;Autos nuevos para carreras y vehículos para espectáculos
+07.1.1.1.2.1;Autos nuevos para carreras y vehículos para espectáculos
+07.1.1.2;Autos de segunda mano
+07.1.1.2.1;Autos de segunda mano, furgonetas, camionetas, carros familiares, SUVs, todoterreno, pick-ups, etc.
+07.1.1.2.1.1;Vehículo usado (Sedan, Hatchback, Convertible, Sports Car, Coupé)
+07.1.1.2.1.2;Pick up usado (Pick up compacta, Pick up mediana, Pick ups grandes)
+07.1.1.2.1.3;Camioneta usado (Crossover, Minivan, Station Wagon)
+07.1.1.2.1.4;Vehículo todo terreno usado (Jeeps, buggies, razors)
+07.1.1.2.2;Autos de segunda mano para carreras y vehículos para espectáculos
+07.1.2;Motocicletas
+07.1.2.0;Motocicletas
+07.1.2.0.1;Motocicletas de todo tipo, scooters y bicicletas motorizadas con motores de combustión
+07.1.2.0.1.1;Motocicleta
+07.1.2.0.1.2;Cuatrimoto y ATV
+07.1.3;Bicicletas
+07.1.3.0;Bicicletas
+07.1.3.0.1;Bicicletas y triciclos de todo tipo
+07.1.3.0.1.1;Bicicleta
+07.1.3.0.1.2;Triciclos
+07.1.3.0.2;Bicicletas eléctricas, pedales (bicicletas eléctricas de pedal asistido)
+07.1.4;Vehículo de tracción animal
+07.1.4.0;Vehículo de tracción animal
+07.1.4.0.1;Vehículos impulsado por animales
+07.1.4.0.2;Animales requeridos para impulsar los vehículos y equipo relacionado (collares, arneses, riendas, etc.)
+07.2.1;Partes y accesorios para equipo de transporte personal
+07.2.1.1;Llantas, neumáticos
+07.2.1.1.1;Nuevas, usadas o recauchutado, incluyendo cámaras de tubos internos para carros, bicicletas, motocicletas
+07.2.1.1.1.1;Llantas o neumáticos (nuevos o usados)
+07.2.1.2;Partes para equipo de transporte personal
+07.2.1.2.1;Bujías baterías, amortiguadores, filtros, bombas y otras partes para equipo de transporte personal
+07.2.1.2.1.1;Bujías/candelas
+07.2.1.2.1.2;Baterías
+07.2.1.2.1.3;Amortiguadores
+07.2.1.2.1.9;Otras partes para equipo de transporte personal
+07.2.1.2.2;Aros
+07.2.1.3;Accesorios para equipo de transporte de personal comprados por separado
+07.2.1.3.1;Equipo de GPS para transporte personal
+07.2.1.3.2;Accesorios para equipo de transporte personal comprados de forma separada como cadenas para nieve, parillas de techo, ca
+07.2.1.3.3;Extinguidores para equipo de transporte personal
+07.2.1.3.4;Productos específicos para limpieza y mantenimiento de equipo de transporte, como pinturas, limpiadores de cromo, compu
+07.2.1.3.4.1;Productos de limpieza y conservación del vehículo de transporte
+07.2.1.3.4.2;Productos para mantenimiento y conservación del vehículo de transporte
+07.2.1.3.4.9;Otros productos de limpieza y conservación del vehículo de transporte
+07.2.1.3.5;Tapacubos si se compran por separado
+07.2.1.3.6;Cascos para bicicletas y motocicletas
+07.2.1.3.7;Sillas para bebé y niños para carros, motocicleta y bicicletas
+07.2.1.3.8;Cámaras de tablero
+07.2.1.3.9;Otros accesorios para equipo de transporte de personal comprados por separado
+07.2.2;Combustibles y lubricantes para equipo de transporte personal
+07.2.2.1;Diesel
+07.2.2.1.1;Diesel
+07.2.2.2;Gasolina
+07.2.2.2.1;Gasolina
+07.2.2.2.2;Mezclas de gasolina como las que incluyen un porcentaje de etanol
+07.2.2.3;Otros combustibles para equipo de transporte personal
+07.2.2.3.1;LPG (gas petróleo licuado), gas natural (CNG, LNG), alcohol, biocombustibles (etanol, metanol) metano y motores de dos
+07.2.2.3.2;Electricidad como combustible comprada de forma separada a otra electricidad
+07.2.2.3.3;Hidrógeno
+07.2.2.4;Lubricantes
+07.2.2.4.1;Lubricantes, líquidos de frenos y transmisión, congelante y aditivos
+07.2.2.4.1.1;Aceite de motor
+07.2.2.4.1.2;Líquido de frenos
+07.2.2.4.1.3;Refrigerante
+07.2.2.4.1.9;Otros lubricantes y aditivos
+07.2.3;Mantenimiento y reparación de equipo de transporte personal
+07.2.3.1;Mantenimiento y reparación de equipo de transporte personal
+07.2.3.1.1;Servicios para mantenimiento y reparación de equipos de transporte personal, como el montaje de piezas y accesorios, el
+07.2.3.1.1.1;Lavado y lustrado
+07.2.3.1.1.2;Pinchazo
+07.2.3.1.1.3;Alineación y balanceo de llantas
+07.2.3.1.1.4;Servicio menor
+07.2.3.1.1.5;Servicio mayor
+07.2.3.1.1.6;Montaje de piezas/accesorios
+07.2.3.1.1.9;Otro tipos de mantenimiento y reparación de equipo de transporte personal
+07.2.3.1.2;Servicios de cerrajería para automóviles
+07.2.4;Otros servicios con respecto al equipo de transporte personal
+07.2.4.1;Servicios de parqueo
+07.2.4.1.1;Alquiler de garajes o espacios de estacionamiento no relacionados con la vivienda
+07.2.4.1.2;Alquiler de estacionamiento en espacios municipales públicos
+07.2.4.1.3;Parquímetros
+07.2.4.1.4;Cargos por espacios de estacionamiento en garajes, como los de los centros comerciales por unas horas o menos
+07.2.4.1.5;Permisos de parqueo en áreas designadas, como permisos de parqueo a residentes
+07.2.4.1.9;Otros servicios de parqueo
+07.2.4.2;Servicio de peaje
+07.2.4.2.1;Peajes de puentes, túneles, autopistas, etc.
+07.2.4.2.2;Cargos por alquiler o compra de etiquetas electrónicas y dispositivos de peaje.
+07.2.4.2.2.1;Pago por tarjeta de peaje
+07.2.4.2.2.2;Pago servicio suscripción (semanal, mensual o anual) (VAS)
+07.2.4.3;Lecciones de manejo, exámenes, licencias y verificaciones de
+07.2.4.3.1;Lecciones de manejo, pruebas, licencias
+07.2.4.3.1.1;Examen para obtención de licencia
+07.2.4.3.1.2;Renovación o reposición de licencia
+07.2.4.3.1.3;Lecciones de manejo
+07.2.4.3.2;Inspecciones técnicas y emisión de pruebas de control
+07.2.4.3.3;Cargos por transferencia de propiedad de vehículos
+07.2.4.3.4;Lecciones de manejo, pruebas y licencias para transporte de recreación, casas móviles, botes, avionetas
+07.2.4.4;Alquiler de equipo personal de transporte sin conductor
+07.2.4.4.1;Alquiler de vehículos
+07.2.4.4.2;Alquiler de motocicletas o bicicletas
+07.2.4.4.9;Otros vehículos para alquiler
+07.3.1;Transporte de pasajeros en ferrocarril
+07.3.1.1;Transporte de pasajeros en tren
+07.3.1.1.0;Transporte de pasajeros en tren
+07.3.1.2;Transporte de pasajeros en tránsito rápido y trolebús
+07.3.1.2.0;Transporte de pasajeros en tránsito rápido y trolebús
+07.3.2;Transporte de pasajeros por carretera
+07.3.2.1;Transporte de pasajeros en bus y autocar
+07.3.2.1.1;Transporte urbano por carretera
+07.3.2.1.1.1;Transporte urbano (bus urbano, transmetro , transurbano)
+07.3.2.1.2;Trasporte interurbano por carretera
+07.3.2.1.2.1;Transporte interurbano nacional (departamentales, municipales)
+07.3.2.1.2.2;Transporte interurbano internacional
+07.3.2.1.3;Transporte de individuos o grupos de personas y su equipaje por taxis compartidos (modelos de transporte que están en l
+07.3.2.1.3.1;Microbús
+07.3.2.1.3.2;Taxi compartido/colectivo
+07.3.2.1.3.3;Pick Up
+07.3.2.1.3.4;Flete para transportar personas con o sin equipaje
+07.3.2.1.3.9;Otros transportes (si no especifica que tipo es)
+07.3.2.2;Transporte de pasajeros en taxi y carro de alquiler con chofer
+07.3.2.2.1;Transporte de individuos o grupos  de personas y su equipaje por taxi y vehículos alquilados con conductor
+07.3.2.2.1.1;Taxi
+07.3.2.2.1.2;Tuc Tuc
+07.3.2.2.1.9;Otros tipos de taxi
+07.3.2.2.2;Transporte de individuos o grupo de personas y su equipaje por acuerdos privados como carpooling y viajes compartidos
+07.3.2.2.2.1;Transporte particular/privado
+07.3.2.2.2.9;Otros tipos de transporte particular/privado
+07.3.2.3;Transporte de pasajeros para estudiantes a/desde la escuela
+07.3.2.3.1;Servicio de alquiler de buses escolares locales con conductor
+07.3.2.3.1.1;Servicio de alquiler de buses escolares locales con conductor
+07.3.2.3.1.2;Servicio de alquiler de bus escolar interurbanos con horario
+07.3.2.9;Otros transportes de pasajeros por carretera
+07.3.2.9.1;Transporte de individuos y grupos de personas con su equipaje por vehículos impulsados por animales con conductor
+07.3.2.9.2;Bici taxis y motocicletas como taxis
+07.3.2.9.2.1;Moto taxi
+07.3.2.9.2.2;Bici taxi
+07.3.2.9.2.9;Otros tipos de transporte de pasajeros por carretera
+07.3.3;Transporte de pasajeros por aire
+07.3.3.1;Transporte de pasajeros por aire, doméstico
+07.3.3.1.1;Servicios de transporte doméstico aéreo regular con horarios
+07.3.3.1.2;Transporte doméstico de individuos o grupos de personas con su equipaje por aeroplanos, helicópteros y avionetas
+07.3.3.1.3;Otros transportes domésticos aéreos
+07.3.3.2;Transporte de pasajeros por aire, internacional
+07.3.3.2.1;Transporte de pasajeros por aire en horarios internacionales y vuelos regulares
+07.3.3.2.2;Otros trasportes internacionales aéreos
+07.3.4;Transporte de pasajeros por mar y vías acuáticas interiores
+07.3.4.0;Transporte de pasajeros por mar y vías acuáticas interiores
+07.3.4.0.1;Transporte de individuos y grupos de personas con su equipaje por barco, bote, ferry, aerodeslizador e hidrodeslizador
+07.3.4.0.1.1;Lanchas
+07.3.4.0.1.2;Ferry
+07.3.4.0.1.9;Otros transportes acuáticos
+07.3.5;Transporte de pasajeros combinado
+07.3.5.0;Transporte de pasajeros combinado
+07.3.5.0.0;Transporte de pasajeros combinado
+07.3.6;Otros servicios de transporte comprados
+07.3.6.0;Otros servicios de transporte comprados
+07.3.6.0.1;Transporte teleférico, ascensor, etc
+07.3.6.0.2;Servicios de maleteros y consigna, y oficinas de expedición de equipaje
+07.3.6.0.3;Comisones a agentes de viaje, si se cobran por separado
+07.3.6.0.9;Otros servicios de transporte comprados no clasificados en otro lugar
+07.4.1;Servicios postales y mensajería
+07.4.1.1;Servicio de correspondencia
+07.4.1.1.1;Servicio de mensajería de correspondencia para cartas incluyendo sello
+07.4.1.2;Servicios de mensajería y paquetería
+07.4.1.2.1;Servicios de entrega de paquetes (entrada y salida)
+07.4.1.2.1.1;Servicio de paquetería nacional
+07.4.1.2.1.2;Servicio de paquetería internacional
+07.4.1.2.2;Servicio de entrega de paquetes por productos comprados en línea
+07.4.9;Otros transportes de bienes
+07.4.9.1;Servicios de mudanza y almacenamiento
+07.4.9.1.1;Servicios de mudanza de bienes
+07.4.9.1.1.1;Servicio de mudanza (incluye transporte de muebles)
+07.4.9.1.1.2;Servicio de fletes para transporte de bienes, puede ir acompañado de personas
+07.4.9.1.2;Servicios de almacenamiento de bienes
+07.4.9.2;Entrega de bienes
+07.4.9.2.1;Servicio de entrega de bienes como muebles, electrodomésticos, compras de supermercado, etc., cuando se cargan por sepa
+07.4.9.2.2;Entrega de artículos comprados como: comida para llevar y medicamentos
+07.4.9.2.3;Servicio de entrega rápida de bienes en un periodo corto de timepo, después de comprar el artículo
+1;ALIMENTOS Y BEBIDAS NO ALCOHÓLICAS
+1.1;ALIMENTO
+1.2;BEBIDAS NO ALCOHÓLICAS
+1.3;Servicios para procesar bienes primarios para alimentos y bebidas no alcohólicas
+11;RESTAURANTES Y SERVICIOS DE ALOJAMIENTO
+11.1;SERVICIOS DE COMIDA Y SERVICIO DE BEBIDAS
+11.1.1;Restaurantes, cafés y similares
+11.1.1.1;Comidas con servicio completo
+11.1.1.1.1;Desayunos
+11.1.1.1.1.1;Desayuno simple (bebida y un acompañamiento)
+11.1.1.1.1.1.1;Desayuno simple (bebida y un acompañamiento dulce)
+11.1.1.1.1.1.2;Desayuno simple (bebida y un acompañamiento salado)
+11.1.1.1.1.1.3;Desayuno simple (bebida y un acompañamiento elaborado)
+11.1.1.1.1.2;Desayuno continental (bebida y dos acompañamientos)
+11.1.1.1.1.2.1;Desayuno continental (bebida y dos acompañamientos simples)
+11.1.1.1.1.2.2;Desayuno continental (bebida y dos acompañamientos elaborados)
+11.1.1.1.1.2.3;Desayuno continental (bebida y un acompañamiento simple y uno elaborado)
+11.1.1.1.1.3;Desayuno completo (bebida caliente y mas de dos acompañamientos)
+11.1.1.1.1.4;Desayuno completo tipo buffet
+11.1.1.1.1.9;Otro tipo de desayunos
+11.1.1.1.2;Almuerzos o cenas
+11.1.1.1.2.1;Almuerzo simple (bebida, carne y acompañamiento) excluye gaseosa
+11.1.1.1.2.1.1;Almuerzo simple (bebida, carne de res y acompañamiento) excluye gaseosa
+11.1.1.1.2.1.2;Almuerzo simple (bebida, carne de pollo y acompañamiento) excluye gaseosa
+11.1.1.1.2.1.3;Almuerzo simple (bebida, carne de cerdo y acompañamiento) excluye gaseosa
+11.1.1.1.2.1.4;Almuerzo simple (bebida, carne de pescado y acompañamiento) excluye gaseosa
+11.1.1.1.2.2;Almuerzo simple (bebida y plato sin carne) excluye gaseosa
+11.1.1.1.2.2.1;Almuerzo simple (bebida y legumbres o leguminosas) excluye gaseosa
+11.1.1.1.2.2.2;Almuerzo simple (bebida y pastas) excluye gaseosa
+11.1.1.1.2.2.3;Almuerzo simple (bebida y sopas o caldos) excluye gaseosa
+11.1.1.1.2.2.4;Almuerzo simple (bebida y ceviche o mariscos) excluye gaseosa
+11.1.1.1.2.2.5;Almuerzo simple (bebida y guiso de verduras) excluye gaseosa
+11.1.1.1.2.2.6;Almuerzo simple (bebida y tamal o pache) excluye gaseosa
+11.1.1.1.2.2.7;Almuerzo simple (bebida y ensalada) excluye gaseosa
+11.1.1.1.2.3;Almuerzo (bebida, entrada y plato con carne)
+11.1.1.1.2.3.1;Almuerzo (bebida, entrada y plato con carne de res)
+11.1.1.1.2.3.2;Almuerzo (bebida, entrada y plato con carne de pollo)
+11.1.1.1.2.3.3;Almuerzo (bebida, entrada y plato con carne de cerdo)
+11.1.1.1.2.3.4;Almuerzo (bebida, entrada y plato con carne de pescado o mariscos)
+11.1.1.1.2.4;Almuerzo (bebida, entrada y plato sin carne)
+11.1.1.1.2.4.1;Almuerzo (bebida, entrada y legumbres o leguminosas)
+11.1.1.1.2.4.2;Almuerzo (bebida, entrada y pastas)
+11.1.1.1.2.4.3;Almuerzo (bebida, entrada y guiso de verduras)
+11.1.1.1.2.5;Almuerzo completo (bebida, entrada, plato con carne y postre y/o bebida caliente)
+11.1.1.1.2.5.1;Almuerzo completo (bebida, entrada, plato con carne de res y postre y/o bebida caliente)
+11.1.1.1.2.5.2;Almuerzo completo (bebida, entrada, plato con carne de pollo y postre y/o bebida caliente)
+11.1.1.1.2.5.3;Almuerzo completo (bebida, entrada, plato con carne de cerdo y postre y/o bebida caliente)
+11.1.1.1.2.5.4;Almuerzo completo (bebida, entrada, plato con carne de pescado o mariscos y postre y/o bebida caliente)
+11.1.1.1.2.6;Almuerzo completo (bebida, entrada, plato sin carne y postre y/o bebida caliente)
+11.1.1.1.2.6.1;Almuerzo completo (bebida, entrada, legumbres o leguminosas y postre y/o bebida caliente)
+11.1.1.1.2.6.2;Almuerzo completo (bebida, entrada, pastas y postre y/o bebida caliente)
+11.1.1.1.2.6.3;Almuerzo completo (bebida, entrada, guiso de verduras y postre y/o bebida caliente)
+11.1.1.1.2.7;Almuerzo buffet
+11.1.1.1.2.9;Otros Almuerzos o cenas a base de otras carnes con o sin bebida (excluye pollo, res, cerdo y mariscos)
+11.1.1.2;Comidas sin servicio completo
+11.1.1.2.1;Comida rápida
+11.1.1.2.1.1;Combos de comida rápida individual
+11.1.1.2.1.1.1;Combo individual de hamburguesa
+11.1.1.2.1.1.2;Combo individual de pollo
+11.1.1.2.1.1.3;Combo individual de pizza
+11.1.1.2.1.1.4;Combo individual de comida china
+11.1.1.2.1.1.5;Combo individual de comida mexicana
+11.1.1.2.1.1.6;Combo individual de pastas
+11.1.1.2.1.1.9;Combo individual de otro tipo
+11.1.1.2.1.2;Combos de comida rápida familiar
+11.1.1.2.1.2.1;Combo de comida rápida familiar de hamburguesas
+11.1.1.2.1.2.2;Combo de comida rápida familiar de pollo
+11.1.1.2.1.2.3;Combo de comida rápida familiar de pizza
+11.1.1.2.1.2.4;Combo de comida rápida familiar de comida china
+11.1.1.2.1.2.5;Combo de comida rápida familiar de comida mexicana
+11.1.1.2.1.2.6;Combo de comida rápida familiar de pastas
+11.1.1.2.1.2.9;Combo de comida rápida familiar de otro tipo
+11.1.1.2.2;Platos preparados
+11.1.1.2.2.1;Platos preparados típicos
+11.1.1.2.2.2;Platos preparados a base de pastas
+11.1.1.2.2.3;Pizza para servirse en el lugar
+11.1.1.2.2.4;Platos preparados de comida china
+11.1.1.2.2.5;Platos preparados de comida mexicana (excluye tacos, burritos, gringas, etc.)
+11.1.1.2.2.6;Sopas y caldos preparados
+11.1.1.2.2.9;Platos preparados de comida internacional
+11.1.1.2.3.1;Panes tipo sándwich
+11.1.1.2.3.1.1;Hamburguesas
+11.1.1.2.3.1.2;Hot dogs, shucos y chévere
+11.1.1.2.3.1.3;Torta mexicanas
+11.1.1.2.3.1.4;Pan con carne (res, pollo y cerdo)
+11.1.1.2.3.1.5;Pan con embutidos
+11.1.1.2.3.1.6;Pan con frijol y/o huevo
+11.1.1.2.3.1.7;Pan con verduras
+11.1.1.2.3.1.9;Otro tipo de sándwich
+11.1.1.2.3.2;Alimentos a base de tortilla
+11.1.1.2.3.2.1;Tacos y gringas (mexicanos)
+11.1.1.2.3.2.2;Tortillas de harina con carne (res, pollo, cerdo o mixta)
+11.1.1.2.3.2.3;Tortillas con carne o mixtas
+11.1.1.2.3.2.4;Tortillas con aderezo, vegetales o fideos (sin carne)
+11.1.1.2.3.2.5;Flautas, dobladas y tacos fritos
+11.1.1.2.3.2.6;Tostada preparada
+11.1.1.2.3.2.9;Otros alimentos a base de tortilla
+11.1.1.2.3.3;Otros tipos de alimentos regionales
+11.1.1.2.3.3.1;Tamales y paches
+11.1.1.2.3.3.2;Tamalitos sin carne (tamalito de chipilín, loroco, chepes, etc.)
+11.1.1.2.3.3.3;Tamalitos con carne (chuchitos, etc.)
+11.1.1.2.3.3.4;Pupusas y tayuyos
+11.1.1.2.3.3.5;Elotes (asados, cocidos y locos)
+11.1.1.2.3.3.9;Los demás tipos de alimentos regionales
+11.1.1.2.4;Pastelería, repostería y postres
+11.1.1.2.4.1;Postres a base de plátano (rellenitos, mole, etc.)
+11.1.1.2.4.2;Buñuelos, nuégados, torrejas y molletes
+11.1.1.2.4.3;Gelatina, flan, natilla, pudin
+11.1.1.2.4.4;Ensalada de frutas
+11.1.1.2.4.5;Helados servidos para consumirse en el local
+11.1.1.2.4.6;Crepas, waffles y panqueques
+11.1.1.2.4.7;Porción de pastel, tartaleta, pie, etc.
+11.1.1.2.4.8;Churros con o sin relleno
+11.1.1.2.4.9;Otros tipos de pasteles y postres consumidas en el local
+11.1.1.2.5;Bocadillos
+11.1.1.2.5.1;Porción de papas fritas
+11.1.1.2.5.2;Porción de nachos preparados
+11.1.1.2.5.3;Chicharrones y carnitas de cerdo
+11.1.1.2.5.4;Piezas de Pollo individual o pollo entero (sin acompañamiento)
+11.1.1.2.5.5;Porción de Frijol
+11.1.1.2.5.9;Otros bocadillos
+11.1.1.2.6;Bebidas no alcohólicas frías servidas en el lugar
+11.1.1.2.6.1;Bebidas gaseosas servidas en el lugar
+11.1.1.2.6.2;Jugo de frutas servidas en el lugar
+11.1.1.2.6.3;Licuados de frutas servidas en el lugar (con y sin leche)
+11.1.1.2.6.4;Té frio y otros productos similares servidos en el lugar
+11.1.1.2.6.5;Agua purificada o mineral servida en el lugar
+11.1.1.2.6.6;Bebidas frías a base de café servido en el lugar
+11.1.1.2.6.7;Refresco natural y artificial servido en el lugar
+11.1.1.2.6.9;Otro tipo de bebidas no alcohólicas frías servidas en el lugar
+11.1.1.2.7;Bebidas no alcohólicas calientes servidas en el lugar
+11.1.1.2.7.1;Bebida caliente a base de café
+11.1.1.2.7.1.1;Café negro
+11.1.1.2.7.1.9;Otras bebidas a base de café
+11.1.1.2.7.2;Té e infusiones
+11.1.1.2.7.3;Bebida caliente a base de chocolate
+11.1.1.2.7.4;Atoles
+11.1.1.2.7.9;Otras bebidas no alcohólicas calientes servidas en el lugar
+11.1.1.2.8;Bebidas alcohólicas servidas en el lugar
+11.1.1.2.8.1;Cerveza servida en el lugar
+11.1.1.2.8.2;Malta servida en el lugar
+11.1.1.2.8.3;Agua ardiente servido en el lugar
+11.1.1.2.8.4;Ron servido en el lugar
+11.1.1.2.8.5;Whisky servido en el lugar
+11.1.1.2.8.6;Otros licores destilados servidos en el lugar
+11.1.1.2.8.7;Vino espumante o champagne servido en el lugar
+11.1.1.2.8.8;Vino servido en el lugar
+11.1.1.2.8.9;Otras bebidas alcohólicas y preparaciones de bebidas alcohólicas servidas en el lugar
+11.2;SERVICIOS DE ALOJAMIENTO
+11.2.0;Servicios de Alojamiento
+11.2.0.1;Hoteles, moteles y similares
+11.2.0.1.1;Alojamiento en hoteles
+11.2.0.1.2;Alojamiento en moteles, hostales, etc.
+11.2.0.1.3;Alojamiento en resorts (todo incluido)
+11.2.0.1.4;Alojamientos por hora
+11.2.0.2;Centros de recreación, hostales y similares
+11.2.0.3;Servicios de alojamiento para estudiantes
+11.2.0.3.1;Casa pensionista (con o sin comidas)
+11.2.0.3.2;Otros alojamientos para estudiantes
+11.2.0.9;Otros servicios de alojamientos
+11.2.0.9.1;Servicios de alojamiento para acompañantes por servicios de salud
+11.2.0.9.2;Servicios de alojamiento para trabajadores
+11.2.0.9.9;Otros servicios de alojamiento (n.e.c.)
+2;BEBIDAS ALCOHÓLICAS, TABACO Y NARCÓTICOS
+2.1;BEBIDAS ALCOHÓLICAS
+2.2;Servicios de producción de alcohol
+2.3;Tabaco
+2.4;Narcóticos
+3;Ropa y calzado
+3.1;Ropa
+3.2;Calzado
+5;MOBILIARIO, EQUIPO Y MANTENIMIENTO DEL HOGAR
+5.1;MUEBLES, MOBILIARIO Y ALFOMBRAS
+5.2;TEXTILES PARA EL HOGAR
+5.3;ELECTRODOMÉSTICOS
+5.4;CRISTALERÍAS, VAJILLAS Y UTENSILIOS DOMÉSTICOS
+5.5;HERRAMIENTAS Y EQUIPOS PARA LA CASA Y EL JARDÍN
+5.6;BIENES Y SERVICIOS PARA EL MANTENIMIENTO DIARIO DEL HOGAR
+7;Transporte
+7.1;Compra de vehículos
+7.2;OPERACIÓN DE EQUIPO PERSONAL DE TRANSPORTE
+7.3;SERVICIOS DE TRANSPORTE DE PASAJEROS
+7.4;SERVICIOS DE TRANSPORTE DE BIENES
